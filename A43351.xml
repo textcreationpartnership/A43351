@@ -1,0 +1,1660 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miscellanea, or, A mixture of choyce observations and institutions, moral, and divine, composed for private use being the product of spare hours, and the meditations of J.H.</title>
+            <author>Henshaw, Joseph, 1603-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 108 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43351</idno>
+            <idno type="STC">Wing H1480</idno>
+            <idno type="STC">ESTC R4644</idno>
+            <idno type="EEBO-CITATION">12315741</idno>
+            <idno type="OCLC">ocm 12315741</idno>
+            <idno type="VID">59399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 632:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Miscellanea, or, A mixture of choyce observations and institutions, moral, and divine, composed for private use being the product of spare hours, and the meditations of J.H.</title>
+                  <author>Henshaw, Joseph, 1603-1679.</author>
+               </titleStmt>
+               <extent>[10], 197 [i.e. 199], [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Helder ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The table" [i.e. index]: p. [1]-[5] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Maxims.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59399:1"/>
+            <pb facs="tcp:59399:1"/>
+            <p>MISCELLANEA; OR, A MIXTURE OF Choyce Obſervations and Inſtitutions, MORAL, and DIVINE, Compoſed for Private uſe.</p>
+            <p>BEING The Product of ſpare hours, and the Meditations of J. H.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Helder,</hi> at the Sign of the <hi>Angel</hi> in <hi>Lit<g ref="char:EOLhyphen"/>tle-Brittain.</hi> 1669.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59399:2"/>
+            <pb facs="tcp:59399:2"/>
+            <head>
+               <hi>TO THE Right Honourable ARTHUR,</hi> Lord Baron of <hi>Mount-Norris<g ref="char:punc">▪</g>
+               </hi> and <hi>Newport-Pagnel,</hi> Vicount of <hi>Valentia,</hi> Earl of <hi>Angliſey,</hi> Lord Treaſurer of his Majeſties <hi>Na<g ref="char:EOLhyphen"/>vy Royal,</hi> and one of his Majeſties moſt Honourable <hi>Privy Councel</hi> of <hi>England,</hi> and <hi>Ireland, S. P. D.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>YOur known indulgence, even of the meaneſt Eſſayes to the advance of Pi<g ref="char:EOLhyphen"/>ety, Peace, and Prudence; gives boldneſs to theſe imper<g ref="char:EOLhyphen"/>fect
+<pb facs="tcp:59399:3"/>
+lines to implore your Lordſhips Correction; not that this Glow-worm means an addition of Light to ſo great a Sun, or to inſtruct a perſon ſo tranſcendently qualified with all knowledge: it only beggs the dew of your benigne aſpect, that it may live; and if by its Glimmerings there may be an encreaſe of light to the darker World, I have my reward; however this Mite of my firſt endeavours owes its being to your Lordſhips favour; upon whoſe Per<g ref="char:EOLhyphen"/>ſon, Family, and Concerns, that all kind of Bleſſings may be multiplyed, ſhall be
+<pb facs="tcp:59399:3"/>
+the continued Interceſſion of him who prayes to be ac<g ref="char:EOLhyphen"/>cepted</p>
+            <closer>
+               <signed>
+                  <hi>Your</hi> Lordſhips <hi>very Servant in the ſer<g ref="char:EOLhyphen"/>vice of Chriſt</hi> J. H.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:59399:4"/>
+            <head>TO THE READER</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>THe Influence of the times, giving more then won<g ref="char:EOLhyphen"/>ted ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hours, I did Compoſe this ſmall Treatiſe for pri<g ref="char:EOLhyphen"/>vate uſe: But hoping this way to ſerve thee, when other opportunities may be denyed, I have publiſhed it. Thou haſt in it few and plain words; I only beg it may not be read
+<pb facs="tcp:59399:4"/>
+in haſte, but weighed before thou paſs thy Cenſure; and if it pleaſe, and profit thee, I have my end; who am willing upon any Chriſtian account to be,</p>
+            <closer>
+               <signed>Thy Servant J. H.</signed>
+               <dateline>
+                  <date>July <hi>1. 1669.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:59399:5"/>
+            <head>BOoks Printed for <hi>Thomas Helder,</hi> living at the <hi>An<g ref="char:EOLhyphen"/>gel</hi> in <hi>Little Brittain.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>De jure <g ref="char:V">Ʋ</g>niformitatis Eccleſi<g ref="char:EOLhyphen"/>aſticae;</hi> or, three Books of the Rights belonging to an Uniformity in Churches. In which the chief things of the Laws of Nature, &amp; Nations, and of the Divine Law, con<g ref="char:EOLhyphen"/>cerning the Conſiſtency of the <hi>Eccleſiaſtical Eſtate</hi> with the <hi>Civil,</hi> are unfolded. By <hi>Hugh Davis,</hi> LL.B. <hi>Late Fellow</hi> of <hi>New Colledge in</hi> Oxford, <hi>and now Chaplain to the</hi> Lord Duke <hi>of</hi> Buckingham. <hi>In Fol.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:59399:5"/>Paradiſe Loſt: A Poem, in ten Books. The Author <hi>John Milton. In Quarto.</hi>
+               </item>
+               <item>Recreation for Ingenious Head-pieces: or a Pleaſant Grove for their wits to walk in,</item>
+               <item>Of
+<list>
+                     <item>
+                        <hi>Epigrams,</hi> 700.</item>
+                     <item>
+                        <hi>Epitapths,</hi> 200.</item>
+                     <item>
+                        <hi>Fancies,</hi> a Number.</item>
+                     <item>
+                        <hi>Fantaſticks,</hi> Abundance.</item>
+                  </list>
+               </item>
+               <item>With their Addition, Multipli<g ref="char:EOLhyphen"/>cation, and Diviſion. <hi>Octavo.</hi>
+               </item>
+               <item>
+                  <hi>ENCHIRIDION,</hi> Contain<g ref="char:EOLhyphen"/>ing Inſtitutions,</item>
+               <item>DIVINE
+<list>
+                     <item>Contemplative.</item>
+                     <item>Practical.</item>
+                  </list>
+               </item>
+               <item>MORAL
+<list>
+                     <item>Ethical.</item>
+                     <item>Oeconomical.</item>
+                     <item>Political.</item>
+                  </list>
+               </item>
+               <item>Written by <hi>Francis Quarles.</hi>
+               </item>
+               <item>
+                  <hi>In Duodecimo.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59399:6"/>
+            <pb n="1" facs="tcp:59399:6"/>
+            <head>MISCELLANEA, OR, A MIXTURE OF Choyce Obſervations.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <seg rend="decorInit">L</seg>Et God be the AL<g ref="char:EOLhyphen"/>PHA and OMEGA, of every day, of eve<g ref="char:EOLhyphen"/>ry duty, of every act, and of every enterpriſe; make
+<pb n="2" facs="tcp:59399:7"/>
+him thy firſt morning thought, when thou doſt awake, and thy laſt evening thought, when thou lieſt down to ſleep; in all thy actions and undertakings eye his command, implore his aſſiſtance, and aime at his glo<g ref="char:EOLhyphen"/>ry; ſo ſhall thy labors proſper, thy reſt be peacefull, thy life pious, thy death bleſſed, thy reſurrection joyous, and thy eternal Being glorious.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II.</head>
+               <p>VVHen thou prayeſt let thy words be few, and endeavour rather a ſence of thy own neceſſity and divine bounty, then elegancy of phraſe. God that knoweth thy thoughts, needs not thy Elo<g ref="char:EOLhyphen"/>quence
+<pb n="3" facs="tcp:59399:7"/>
+for his information; and he that plentifully feedeth the young Ravens when they cry unto him, will not deny his Child daily bread. Never prayer rightly made but was heard, never prayer was heard, but was granted; and he who hath proclaimed him<g ref="char:EOLhyphen"/>ſelf a God hearing prayer, hath promiſed to teach thee to pray.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>SIn is a deceitful poyſon, fair in colour, ſweet in taſt, but deadly in operation; look not upon it with delight, leſt it hurt thee; taſt it not leſt it wound thee; feed not, on it, leſt it kill thee; and as thy Sa<g ref="char:EOLhyphen"/>viours
+<pb n="4" facs="tcp:59399:8"/>
+blood is thy only cure, ſo thy ſorrow for it, is the beſt cordial and thy greateſt com<g ref="char:EOLhyphen"/>fort; for ſo often as thou re<g ref="char:EOLhyphen"/>membereſt thy ſins paſt with<g ref="char:EOLhyphen"/>out grief, ſo often thou repeat<g ref="char:EOLhyphen"/>eſt thoſe ſins for not grieving; he that will not mourn for the evil he hath done, gives earneſt for the evil he intends to do. Nothing can aſſwage that fire which ſin hath made, but the water which repentance hath drawn; and more joy is pro<g ref="char:EOLhyphen"/>miſed to repentance, then to innocency: conſider when thou ſinneſt heaven is grieved, and canſt thou rejoyce? hell re<g ref="char:EOLhyphen"/>joyceth, and canſt thou be merrie? thy beſt friends are provoked to turn thine ene<g ref="char:EOLhyphen"/>mies,
+<pb n="5" facs="tcp:59399:8"/>
+and thy worſt enemies, are eſpouſed for thy friends; how then comes ſin to pleaſe thee, when it diſpleaſeth God thy Father, when it profits thee ſo little, and hurts thee ſo much? it wounds thy ſoul, it decays thy health, it impairs thy eſtate, it intailes a curſe upon thy children unto the fourth generation; in ſhort, it will exclude thee from all felicity, it will involve thee in all miſery, and for ever ru<g ref="char:EOLhyphen"/>ine thee: Oh therefore ſin not.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>BEfore the undertaking of a<g ref="char:EOLhyphen"/>ny deſigne, weigh well the glory and advantage of it, with
+<pb n="6" facs="tcp:59399:9"/>
+the danger and diſgrace that may enſue; if the glory out<g ref="char:EOLhyphen"/>weigh the danger, it is cowar<g ref="char:EOLhyphen"/>diſe to forbear it; if the danger outweigh the glory, it is raſh<g ref="char:EOLhyphen"/>neſs to attempt it; if the bal<g ref="char:EOLhyphen"/>lance ſtand equally poiſed, let thy own genious caſt it; if thou doubt the lawfulneſs of thy action, commend it in thy devotion to divine bleſſing; if it be lawful, thou ſhalt find thine heart encouraged by thy Prayer; if unlawful, thy Pray<g ref="char:EOLhyphen"/>er will be diſcouraged by thy heart: that action is not war<g ref="char:EOLhyphen"/>rantable, that either bluſh<g ref="char:EOLhyphen"/>eth to beg a bleſſing, or hav<g ref="char:EOLhyphen"/>ing ſucceeded dares not return thanksgiving.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="7" facs="tcp:59399:9"/>
+               <head>CHAP. V.</head>
+               <p>FLatter not thy ſelf in thy faith towards God, if thou wanteſt charity to thy neighbour, and think not thou haſt charity to thy neighbour, if thou want'ſt faith towards God; where theſe two are not together, they are both want<g ref="char:EOLhyphen"/>ing, and both dead, if once di<g ref="char:EOLhyphen"/>vided. In thy faith 'tis not whether it be ſtrong or weak, but whether it be true; God hath not promiſed eternal life to him that believeth much, but to him that believeth; 'tis not the eldeſt ſhall have the whole inheritance, Gods chil<g ref="char:EOLhyphen"/>dren are all coheirs. In thy charity 'tis not how much, nor
+<pb n="8" facs="tcp:59399:10"/>
+to whom, but with what heart thou giveſt; he that giveth all he hath, and yet retaineth a ſecret deſire of keeping part, though he hath parted with all hath given nothing at all. God loveth a cheerful giver. Not to give to the poor is to take from him; and to deny God the loan of what he hath gi<g ref="char:EOLhyphen"/>ven thee, and of what is in his power to take from thee, not to feed the hungry when thou haſt it, is the utmoſt of thy power to kill him; that there<g ref="char:EOLhyphen"/>fore thou mayſt avoyd both ſacriledge and murther, be charitable; and remember there is no ſoyl ſo fruitful as the poor mans back, and belly: What thou giveſt in charity,
+<pb n="9" facs="tcp:59399:10"/>
+will return an hundred fold in<g ref="char:EOLhyphen"/>to thy own boſome, or entayle a bleſſing upon thy childrens children.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>GIve thine heart to thy Creator, reverence to thy ſuperiors, honor to thy Pa<g ref="char:EOLhyphen"/>rents, thy boſom to thy friend; give diligence to thy calling, and ear to good counſel; give almes to the poor, and glory to God; forgive him that ig<g ref="char:EOLhyphen"/>norantly offends thee, and him that having wittingly offend<g ref="char:EOLhyphen"/>ed thee ſeeks forgiveneſs of thee; forgive him that hath forcibly abuſed thee, and him that hath fraudulently betray<g ref="char:EOLhyphen"/>ed thee; forgive all thine ene<g ref="char:EOLhyphen"/>mies,
+<pb n="10" facs="tcp:59399:11"/>
+but leaſt of all thy ſelf: he is below himſelf, that is not above an injury, and he that ſpares himſelf, teacheth God not to ſpare him. Give and it ſhall be given thee, forgive and it ſhall be forgiven thee; to give and forgive is the ſum of all Chriſtianity.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <p>IN thy apparrel avoyd pro<g ref="char:EOLhyphen"/>fuſeneſs, ſingularity, and gaudineſs; let it be decent, and ſuted to the quality of thy place, and purſe. Too much punctuality, and too much moroſity, are the extreames of pride; be neither too early in the faſhion, nor too long out of it, nor too preciſely in it; what cuſtome hath civiliz'd is be<g ref="char:EOLhyphen"/>come
+<pb n="11" facs="tcp:59399:11"/>
+decent, till then ridicu<g ref="char:EOLhyphen"/>lous. Where the eye is the Jury, thy apparrel is the evidence; the body is the ſhell of the ſoul, apparrel is the husk of that ſhell, the husk often tells you what the kernel is; ſel<g ref="char:EOLhyphen"/>dome doth ſolid wiſdome dwell under fantaſtick appar<g ref="char:EOLhyphen"/>rel; neither will the pantaloone fancy be immured within the walls of grave habit; the fool is known by his pyed coat.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <p>LEt thy diſcourſe be plea<g ref="char:EOLhyphen"/>ſing and profitable; be cau<g ref="char:EOLhyphen"/>tious what thou ſpeakeſt, to whom, how, and when; let what thou ſpeakeſt be neither falſe, nor impertinent, nor too
+<pb n="12" facs="tcp:59399:12"/>
+much; not falſe, for God is the Author of truth, the Devil is the Father of lyes. If the tel<g ref="char:EOLhyphen"/>ling of a truth ſhall endanger thy life or credit, the Author of truth will protect thee from that danger, or reward thee for thy damage; if the telling a lye may ſecure thy life or credit, the father of lies wil beguile thee of thy gaines, or traduce the ſecurity; bet<g ref="char:EOLhyphen"/>ter by loſing of thy life to ſave it, then by ſaving of thy life to loſe it; however, bet<g ref="char:EOLhyphen"/>ter thou periſh then the truth. Be ſure thy diſcourſe be to purpoſe, leſt thou be counted fooliſh, and thy diſcourſe a burden; let it not be too much, God hath given thee two ears
+<pb n="13" facs="tcp:59399:12"/>
+and one Tongue, to the intent thou ſhouldſt hear much, and ſay but little; what thou heareſt thou receiveſt, what thou ſpeakeſt, thou giveſt; it is more glorious to give, more profitable to receive; and it is leſs ſhame to be loſt in a bluſhing ſilence, then to be found in too bold Elo<g ref="char:EOLhyphen"/>quence. Sute thy diſcourſe to thy company: all meats pleaſe not every palat, all kind of diſcourſe pleaſeth not eve<g ref="char:EOLhyphen"/>ry company. Neatly entice every one to that he knows, to that which likes him beſt, and may profit him moſt; ſo ſhall thy company be deſir'd, and thy diſcourſe priz'd; but cloath not thy language either
+<pb n="14" facs="tcp:59399:13"/>
+with obſcurity, or affectati<g ref="char:EOLhyphen"/>on, in the one thou diſcovereſt too much darkneſs, in the o<g ref="char:EOLhyphen"/>ther too much lightneſs. He that ſpeaks from the under<g ref="char:EOLhyphen"/>ſtanding to the underſtand<g ref="char:EOLhyphen"/>ing doth beſt: and know when to ſpeak, leaſt whilſt thou ſheweſt wiſdom in not ſpeak<g ref="char:EOLhyphen"/>ing thou bewray thy folly in too long ſilence; if thou art a fool, thy ſilence is wiſdom; if thou art wiſe, thy long ſi<g ref="char:EOLhyphen"/>lence is folly. As too many words from a fool's mouth gives one that is wiſe no leave to ſpeak, ſo too long ſilence in him that is wiſe, gives a fool opportunity of ſpeaking, and makes thee guilty of his folly. To condude, if thou be
+<pb n="15" facs="tcp:59399:13"/>
+not wiſe enough to ſpeak, be ſo wiſe as to hold thy peace.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CHAP. IX.</head>
+               <p>IF thou wouldeſt have a good ſervant, let thy ſer<g ref="char:EOLhyphen"/>vant find a wife Maſter; let his food, reſt, and wages, be ſeaſonable; let his labour, re<g ref="char:EOLhyphen"/>creation, and attendance, de<g ref="char:EOLhyphen"/>pend upon thy pleaſure. Be not angry with him too long, leſt he think thee malicious, nor too ſoon, leſt he conceive thee raſh, nor too often, leſt he count thee humorous; be not too fierce leſt he love thee not, nor too remiſs, leſt he fear thee not, nor too familiar, leſt he prize thee not; in brief, whil'ſt thou giveſt him the li<g ref="char:EOLhyphen"/>berty
+<pb n="16" facs="tcp:59399:14"/>
+of a ſervant, beware thou loſe not the Majeſty of a Ma<g ref="char:EOLhyphen"/>ſter; rebuke his faults in pri<g ref="char:EOLhyphen"/>vate, publick reproof hard<g ref="char:EOLhyphen"/>ens him; if he be paſt a youth, ſtrike him not: he is not fit for thy ſervice, that after wiſe reproof, will either deſerve ſtrokes, or bear them: the wages he hath earned detain not from him, leſt God with<g ref="char:EOLhyphen"/>hold thy wages from thee; if he complain to thee, hear him, leſt he complain to heaven where he will be heard; if he hunger for thy ſake, thou ſhalt not proſper for his ſake. The poor mans penny is a plague in the rich mans purſe.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="17" facs="tcp:59399:14"/>
+               <head>CHAP. X.</head>
+               <p>IF thou be a ſervant deal juſt<g ref="char:EOLhyphen"/>ly by thy Maſter, as thou de<g ref="char:EOLhyphen"/>ſireſt thy ſervant ſhould deal by thee: where thou art com<g ref="char:EOLhyphen"/>manded be obedient, where not commanded be provident, let diligence be thy credit, let faithfulneſs be thy Crown, let thy Maſters credit be thy care, and let his welfare be thy con<g ref="char:EOLhyphen"/>tent; let thine eye be ſingle, and thine heart be humble. Be ſober that thou may'ſt be circumſpect; he that in ſobrie<g ref="char:EOLhyphen"/>ty is not his own, being drunk whoſe is he? be not contenti<g ref="char:EOLhyphen"/>ous nor laſcivious, the one ſhews a turbulent heart, the o<g ref="char:EOLhyphen"/>ther an idle brain. A good ſer<g ref="char:EOLhyphen"/>vant
+<pb n="18" facs="tcp:59399:15"/>
+is a great maſter; and the beſt way to become a great and good maſter, is to be a good and faithful ſervant; he that is faithful in a little, ſhall be ruler over much.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI.</head>
+               <p>MArry not too young, and when thou art too old marry not, leſt thou be fond in the one, and dote in the o<g ref="char:EOLhyphen"/>ther, and repent of both; let thy liking ripen before thou love, let thy love adviſe be<g ref="char:EOLhyphen"/>fore thou chooſe, and thy choyce be fixed before thou marry. Remember that the whole happineſs or unhappi<g ref="char:EOLhyphen"/>neſs of thy life depends upon this one act; nothing but death
+<pb n="19" facs="tcp:59399:15"/>
+can diſſolve this knot. He or ſhe that weds in haſt, repents oft-times by leaſure. Whoever repents him of his own act, is or was a fool by his own con<g ref="char:EOLhyphen"/>feſſion. In thy choyce, or rather in thine acceptance of an hus<g ref="char:EOLhyphen"/>band, let him be one that is di<g ref="char:EOLhyphen"/>ſcreet, and wiſe, leſt when thou haſt him, diſallowing his parts, thou deſpiſe his perſon, and make thy life uncomfortable; let his breeding and behavi<g ref="char:EOLhyphen"/>our be anſwerable to thy qua<g ref="char:EOLhyphen"/>lity, and diſpoſition, leſt thou be weary of him at home, and aſhamed of him abroad. Mar<g ref="char:EOLhyphen"/>ry not too far above, nor too far below thy quality and fortune, leſt in the one thou be upbraided with thy firſt con<g ref="char:EOLhyphen"/>dition,
+<pb n="20" facs="tcp:59399:16"/>
+or leſt in the other thou expect more obſervance then will be given, both which create diſcontent. Let not his years be ſhort of thine, nor far exceed them; if he be much el<g ref="char:EOLhyphen"/>der, he may fancy thee, but thou wilt take no pleaſure in him; if he be younger, the burden of buſineſs will lye upon thy ſhoul<g ref="char:EOLhyphen"/>der; thou wilt dote on him, but he will diſregard thee. By no means chuſe one that is given to exceſs in drinking: the drunkard is qualified for all vice, and a ſtranger to all vertue; with him, Blaſphemy is Wit, Oaths are Rhetorick, Adultery but a Frolick, In<g ref="char:EOLhyphen"/>ceſt a venial ſin, Quarrels are Manhood, Murther is Valour,
+<pb n="21" facs="tcp:59399:16"/>
+Friends are Enemies, and Se<g ref="char:EOLhyphen"/>crets are Proclamations. <hi>Noah</hi> diſcovered that being drunk which he had kept ſecret ſix hundred years. <hi>Lot</hi> did that being Drunk for which he did abhor himſelf being ſober. Let not his recreation be his buſineſs, for buſineſs is elder brother to recreation, and com<g ref="char:EOLhyphen"/>plement, and ought firſtly to be attended, otherwiſe folly and penury will be the iſſue of both. As near as may be chooſe one of thy own com<g ref="char:EOLhyphen"/>plexion, and diſpoſition; for where nature hath put anti<g ref="char:EOLhyphen"/>pathy, marriage may, but ſel<g ref="char:EOLhyphen"/>dome doth create a perfect Union. The ſevere melanchol<g ref="char:EOLhyphen"/>ly humour condemns the fro<g ref="char:EOLhyphen"/>lick
+<pb n="22" facs="tcp:59399:17"/>
+Sanguine complexion, for too much lightneſs, and vain; the Sanguine complexion con<g ref="char:EOLhyphen"/>demns that for too much Auſte<g ref="char:EOLhyphen"/>rity; theſe but ſeldom do agree. If thou marry'ſt him only for his eſtate, thou marry'ſt his eſtate, not him; if his eſtate be ſmall, his prudence and providence with thy help will encreaſe it: There is more danger of waſt<g ref="char:EOLhyphen"/>ing an eſtate left us, then of im<g ref="char:EOLhyphen"/>pairing an eſtate we have got<g ref="char:EOLhyphen"/>ten; he that knows how to get, knows beſt how to keep, and how to improve what he hath gotten. Be careful that he be religious, and that he be of thy own religion. That enmity that is grounded upon difference in religion, is very hardly recon<g ref="char:EOLhyphen"/>ciled,
+<pb n="23" facs="tcp:59399:17"/>
+hath ſometimes parted, and often diſturbed near Re<g ref="char:EOLhyphen"/>lations. Be not over-curious in his perſon, ſo it be comely; if he be deformed, upon view of fairer objects thou mayeſt diſlike him; if exceeding fair, others may fancy him to thy hurt. Let him have no here<g ref="char:EOLhyphen"/>ditary diſeaſe; for that diſeaſe we bring with us into the world, doth u<g ref="char:EOLhyphen"/>ſually make our life uncom<g ref="char:EOLhyphen"/>fortable in it, and take us out of it. If thou meet with ſuch a one as is here deſcribed, wiſely accept him, and yeeld him a ſutable reſpect to his quality; too great a reſerva<g ref="char:EOLhyphen"/>tion will expoſe thee to the ſentence of pride; too eaſie
+<pb n="24" facs="tcp:59399:18"/>
+acceſs will condemn thee to the cenſure of folly. Things too hardly endeavoured diſ<g ref="char:EOLhyphen"/>courage the ſeeker, too eaſi<g ref="char:EOLhyphen"/>ly obtain'd diſparage the thing ſought for, too eaſily got is lowly prized; when thou haſt him, let him know thou art his, and that he may ſafely confide in thee, and commit his ſe<g ref="char:EOLhyphen"/>crets to thee, even as to his own heart; thou can'ſt not enjoy peace ſo long as he is diſcontent; neither can he be at reſt, ſo long as thou art diſ<g ref="char:EOLhyphen"/>quiet; you are now no more two but one. Think not to enrich thy ſelf out of his eſtate without his conſent, or privacy, it is the way to ruine both. He is no good husband
+<pb n="25" facs="tcp:59399:18"/>
+that denies his Wife conveni<g ref="char:EOLhyphen"/>ent allowance, anſwerable to his eſtate and quality; ſhe is no diſcreet Wife, that deſires more. In ſhort, an underſtand<g ref="char:EOLhyphen"/>ing Husband makes a diſcreet Wife, and ſhe an happy Hus<g ref="char:EOLhyphen"/>band.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII.</head>
+               <p>DEliberate long before thou conſecrate a friend; and with four ſorts of men have no ſerious friendſhip, with the <hi>Ingrateful,</hi> the <hi>Mul<g ref="char:EOLhyphen"/>tiloquious,</hi> and the <hi>Coward,</hi> and the <hi>Paſſionate angry Man;</hi> the firſt cannot prize thy fa<g ref="char:EOLhyphen"/>vors, the ſecond will not keep thy counſel, the third dare not vindicate thy honor, the
+<pb n="26" facs="tcp:59399:19"/>
+fourth is hardly kept and quickly loſt; but if thou finde one whom thy <hi>impartial judg<g ref="char:EOLhyphen"/>ment</hi> concludes worthy of thy boſome, know thou haſt found a <hi>jewel,</hi> receive him joyfully, and entertain him wiſely; be cautious what thou ſayſt, and courteous in what thou doſt: obſerve his inclination; if thou find him weight, lodg him in a faithful boſome, impart thy ſecrets boldly to him, and mingle thy thoughts with his, he is thy very ſelf, and uſe him ſo; yet be neither rudely familiar, nor raſhly excepti<g ref="char:EOLhyphen"/>ous; the one will breed con<g ref="char:EOLhyphen"/>tention, the other contempt; if thou firmly think him faithful, thou makeſt him ſo;
+<pb n="27" facs="tcp:59399:19"/>
+the more truſt and confidence thou doſt repoſe in him, the greater obligation doſt thou put upon him, to be true to thee; and be to him as thou deſireſt he ſhould be to thee, diſcloſe not his ſecrets, flatter him not in his miſtakes, deny not his reaſonable requeſts, let nothing but death part thy friend and thee.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII.</head>
+               <p>WHat thou deſireſt, con<g ref="char:EOLhyphen"/>ſider throughly before thou proſecute, weigh the conveniences with the incon<g ref="char:EOLhyphen"/>veniences, the charge of the Plow, with fulneſs of the Barn; when thou art come to a reſolve, neither delay exe<g ref="char:EOLhyphen"/>cution,
+<pb n="28" facs="tcp:59399:20"/>
+nor bewray thy in<g ref="char:EOLhyphen"/>tention. Delayes are dan<g ref="char:EOLhyphen"/>gerous, and he that diſcover<g ref="char:EOLhyphen"/>eth himſelf, till he hath made himſelf maſter of his deſires, lays himſelf open to his own ruine, and makes himſelf pri<g ref="char:EOLhyphen"/>ſoner to his tongue; a word unſpoken, is like the Sword in the ſcabbard, thine, if vented, thy Sword is in anothers hand; if thou deſire to be held wiſe, be ſo wiſe as to hold thy Tongue.</p>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIIII.</head>
+               <p>LEt that Table which God hath pleaſed to give thee pleaſe thee; accuſtome thy palat to that which is moſt u<g ref="char:EOLhyphen"/>ſual conſulting rather thy health then thy appetite. He
+<pb n="29" facs="tcp:59399:20"/>
+that delights in varieties, muſt often feed diſpleaſed, and ſometimes lye at the mercy of a dear market. Com<g ref="char:EOLhyphen"/>mon food nouriſhes beſt, deli<g ref="char:EOLhyphen"/>cates pleaſe moſt; the ſound ſtomach prefers neither: what art thou the worſe for the laſt years plain diet, or what now the better for thy laſt great feaſt? if thou be content with a little, thou haſt enough; if thou complain, thou haſt too much. In the entertainment of thy friend, let thy proviſion be ſolid, and fuller of ſub<g ref="char:EOLhyphen"/>ſtance then of Art; be wiſely frugal in thy preparation, and freely cheerful in thy enter<g ref="char:EOLhyphen"/>tainment; if thy gueſts be right, it is enough, if not, it is
+<pb n="30" facs="tcp:59399:21"/>
+too much; too much is vani<g ref="char:EOLhyphen"/>nity, enough is a feaſt.</p>
+            </div>
+            <div n="15" type="chapter">
+               <head>CHAP. XV.</head>
+               <p>BE very circumſpect in the choice of thy companions. Thoſe we frequently converſe with, have a great influence upon us; either to improve and better us, or to make us worſe. <hi>Joſeph</hi> by being in <hi>Pharaoh's</hi> Court, learned to ſwear <hi>by the life of Pharaoh.</hi> And ever aſſociate thy ſelf with thy betters. In the ſoci<g ref="char:EOLhyphen"/>ety of thine equals thou ſhalt find more pleaſure, in the ſocie<g ref="char:EOLhyphen"/>ty of thy ſuperiours thou wilt find more profit; to be the beſt in the company is the way to grow worſe; the beſt means to grow better is to be
+<pb n="31" facs="tcp:59399:21"/>
+the worſt there. And keep no company with the flatterer, the tale-bearer, and him that is branded with notorious vice; by the flatterer thou can'ſt take no juſt account of thy ſelf, for he is ever ſilent at thy faults, doth ſooth thee in thy frailties, and excuſe thee in thy follies. From the talebearer thou can'ſt receive no juſt account of thy neigh<g ref="char:EOLhyphen"/>bour: he that loves to carry tales, reports them after his own humor, and to pleaſe him he makes his report to. If thou keep company with the third, thou wilt be ſuppoſed to partake with him in his vice, or at leaſt to connive at him; for be as reſerved as thou
+<pb n="32" facs="tcp:59399:22"/>
+canſt be, yet ſuch as thy com<g ref="char:EOLhyphen"/>panions are, ſuch wilt thou be thought be be.</p>
+            </div>
+            <div n="16" type="chapter">
+               <head>CHAP. XVI.</head>
+               <p>LEt thy recreation be mo<g ref="char:EOLhyphen"/>derate, ſeaſonable, lawful, and ſuch as doth become thee; let it be moderate, therefore ſpend not too much of thy ſtrength, nor too much of thy time, nor too much of thy eſtate, in recreation, thy time is ſhort and precious: Eterni<g ref="char:EOLhyphen"/>ty depends upon thy good improvement of this moment; yeſterday cannot be recalled, and to morrow is not ſure. Spend not too much of thy ſtrength, the end and uſe of recreation being to ſweeten
+<pb n="33" facs="tcp:59399:22"/>
+thy reſt, and to renew thy ſtrength for labour. He that waſts his eſtate to recreate himſelf, makes a ſport of his own ruine. Let thy recreation be ſeaſonable and a ſervant to thy buſineſs, leſt thou be a ſlave to it; and remember the ſervant muſt not be greater then his maſter. Let it be law<g ref="char:EOLhyphen"/>ful. He that makes a jeſt of that which is unlawful, ſhall be puniſhed in earneſt. And laſt<g ref="char:EOLhyphen"/>ly, ſee that thy recreation be ſuch as doth become thee. It becomes not the grave Sena<g ref="char:EOLhyphen"/>tor to dance the Antick, nor Ladies of honor to frisk about a May-pole.</p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="34" facs="tcp:59399:23"/>
+               <head>CHAP. XVII.</head>
+               <p>IF ever God vouchſafe thee Children, and thou deſire to ſee them vertuous, let them not ſee their Parents vices. Thou canſt not rebuke that in them, which they behold practiced in thee. Till reaſon be ripe, examples teach more then precepts: Such as thy be<g ref="char:EOLhyphen"/>haviour is before thy Chil<g ref="char:EOLhyphen"/>drens face, ſuch commonly is theirs behind thy back; be ſure thy paſſion miſcall them not, leſt thou propheſie their fortunes, and curſe them not, leſt thy curſe returne from whence it came; curſes ſent in the room of bleſſings are dtiven back with a double
+<pb n="35" facs="tcp:59399:23"/>
+vengeance: If thou haſt a Son, and an eſtate for him, keep him not too ſhort, leſt he think thou live too long; and what thou alloweſt him, let him re<g ref="char:EOLhyphen"/>ceive from thy hand as gift, not from thy Tenants as Rent: keep the reins of thy eſtate in thy own hand, leſt thou for<g ref="char:EOLhyphen"/>ſake the ſoveraignty of a Pa<g ref="char:EOLhyphen"/>rent, he forget the reverence of a Childe; let his liberty be grounded upon thy permiſ<g ref="char:EOLhyphen"/>ſion, and keep him within the compaſs of thy inſtruction; let him feel thou haſt the curbe, though occaſion urge thee not to check; give him the choiſe of his own Wife, if he be wiſe; counſel his af<g ref="char:EOLhyphen"/>fection rather then croſs
+<pb n="36" facs="tcp:59399:24"/>
+it, if thou beeſt wiſe, leſt his mar<g ref="char:EOLhyphen"/>riage bed be made in ſecret, or depend upon thy grave: If he be given to laviſh com<g ref="char:EOLhyphen"/>pany, ſtave him off with lawful recreation; be cheerful with him, that he may love thy pre<g ref="char:EOLhyphen"/>ſence, wink at ſmall faults that thou mayſt gain him; be not always chiding leſt thou har<g ref="char:EOLhyphen"/>den him, neither knit thy brow too often, leſt thou diſhearten him. Remember the diſcre<g ref="char:EOLhyphen"/>tion of a Parent oft times pre<g ref="char:EOLhyphen"/>vents the deſtruction of a Child. Love not thy Chil<g ref="char:EOLhyphen"/>dren too unequally; if thou doſt, ſhew it not, leſt thou make the one proud, the other envious, and both fools. If nature hath made a difference,
+<pb n="37" facs="tcp:59399:24"/>
+it is the part of a tender parent to help the weakeſt; that try<g ref="char:EOLhyphen"/>al is not fair where affection is judge. And chooſe ſuch im<g ref="char:EOLhyphen"/>ployment for thy ſon, as may ſtand with his fancy and thy judgment, leſt thy country looſe a ſervant, and thou a child. To conclude, ſo behave thy ſelf amongſt thy children that they may fear thy diſplea<g ref="char:EOLhyphen"/>ſure, rather then thy correcti<g ref="char:EOLhyphen"/>on; too much familiarity will embolden them, too little coun<g ref="char:EOLhyphen"/>tenance will diſcourage them; when thou reproveſt them do it in ſeaſon, when thou correct<g ref="char:EOLhyphen"/>eſt them do it not in paſſion. As a wiſe child makes happy parents, ſo wiſe parents make happy children.</p>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="38" facs="tcp:59399:25"/>
+               <head>CHAP. XVIII.</head>
+               <p>INſult not over miſery, nor deride infirmity, nor deſpiſe deformity; the firſt ſhews thy inhumanity, the ſecond thy folly, the third thy pride: he that made him miſerable, made thee happy, that thou mighteſt lament him; he that made him weak, made thee ſtrong to ſup<g ref="char:EOLhyphen"/>port him; he that made him deformed, gave thee favour to be humbled. He that is not ſenſible of anothers unhappi<g ref="char:EOLhyphen"/>neſs, is a living Stone; but he that makes miſery the object of his triumph, is an incarnate Devil. Take no pleaſure in the folly of an idiot, nor in the fancy of a Lunatick, nor in the
+<pb n="39" facs="tcp:59399:25"/>
+frenzy of a drunkard; make them the object of thy pity, not of thy paſtime; when thou doſt behold them, conſider how thou art beholding to him that ſuffered not thee to be like unto them: 'tis not thy merit, but Gods favour alone, that puts a difference between thee and them.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX.</head>
+               <p>HAth Fortune dealt thee ill Cards, let wiſdom make thee a good Gameſter. In a fair Gayle every fool may ſayl, but wiſe behaviour in a ſtorm commends the wiſdom of a Pilot. To bear adverſity with an equal mind, is both ſign and glory of a brave ſpi<g ref="char:EOLhyphen"/>rit.
+<pb n="40" facs="tcp:59399:26"/>
+As there is no worldly gain without ſome loſs, ſo there is no worldly loſs without ſome gain; if thou haſt loſt thy wealth, thou haſt loſt ſome trouble with it; if thou art degraded of thy honour, thou art likewiſe freed from the ſtroke of envy; if ſickneſs hath blurr'd thy beauty, it hath de<g ref="char:EOLhyphen"/>livered thee from pride; ſet the allowance againſt thy loſs, and thou ſhalt find no great loſs. He loſeth little or nothing who keeps the favour of his God, and the peace and free<g ref="char:EOLhyphen"/>dom of his conſcience. But haſt thou loſt any thing, ad<g ref="char:EOLhyphen"/>viſe with thy ſelf whether thy loſs be recoverable; if it be, uſe all ſuch ſpeedy and lawful
+<pb n="41" facs="tcp:59399:26"/>
+means (the violence and unſea<g ref="char:EOLhyphen"/>ſonableneſs whereof may not diſadvantage thee in thy pur<g ref="char:EOLhyphen"/>ſute) to recover it; if it be not recoverable, endure with patience what thou canſt not recover with pains. He that carnally afflicts his ſoul for the loſs of a tranſitory good, caſts away the kernel becauſe he hath loſt the ſhell.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX.</head>
+               <p>LEt not the falling of Salt, the croſſing of an Hare, the chattering of a Pie, the flying of a Crow, or the crying of a Cricket trouble thee; they portend no evil but what thou feareſt; he is ill acquain<g ref="char:EOLhyphen"/>ted with himſelf that knows
+<pb n="42" facs="tcp:59399:27"/>
+not his own fortunes better then they; he hath little know<g ref="char:EOLhyphen"/>ledg of God, and leſs faith in him, who knoweth not his power, or believeth not his providence to be above the portent of theſe ſilly things: if evil follow, it is the puniſh<g ref="char:EOLhyphen"/>ment of thy ſuperſtition, not the fulfilling of their predicti<g ref="char:EOLhyphen"/>on; all things are lucky to thee, if thou love God, and live in his fear; nothing but is ominous to the Superſtiti<g ref="char:EOLhyphen"/>ous.</p>
+            </div>
+            <div n="21" type="chapter">
+               <head>CHAP. XXI.</head>
+               <p>AS thou deſireſt the love of God and man, beware of Pride, it is a tumour in thy mind, that breaks and poyſons all thy actions; it is a worm
+<pb n="43" facs="tcp:59399:27"/>
+in thy treaſure that eats and ruines thy eſtate; it loves no man, is beloved of no man; it diſparages vertue by de<g ref="char:EOLhyphen"/>traction; it diſrewards good<g ref="char:EOLhyphen"/>neſs in it ſelf, by vain glory; the friend of the flatterer, the mother of envy, the nurſe of fury, the baud of luxury, the ſin of Devills, and the Devil in mankind: it hates Superi<g ref="char:EOLhyphen"/>ours, it ſcornes inferiours, it owns no equalls; 'till thou hate it, God hates thee; there<g ref="char:EOLhyphen"/>fore be humble. The voice of humility is Gods muſick, the ſilence of humility is Gods Rhetorick; humility en<g ref="char:EOLhyphen"/>forces, where neither vertue, nor ſtrength, nor reaſon, can prevail. Wouldſt thou be plea<g ref="char:EOLhyphen"/>ſing
+<pb n="44" facs="tcp:59399:28"/>
+to God, and worthily pray<g ref="char:EOLhyphen"/>ſed of men, be humble; wouldſt thou lay a ſure foun<g ref="char:EOLhyphen"/>dation for preferment, and laſting glory, be humble. That foyl which lyeth low, is ever moſt fruitful, and of greateſt value. The tall Cedars are ex<g ref="char:EOLhyphen"/>poſed to the ſtrong guſts of every wind, when the low trees grow ſecure in the val<g ref="char:EOLhyphen"/>ley. Humility is the root, and nouriſher of vertue, pride is the root of vice and ruine.</p>
+            </div>
+            <div n="22" type="chapter">
+               <head>CHAP. XXII.</head>
+               <p>OF all endowments which God hath given the ſons of men, wiſdom is the princi<g ref="char:EOLhyphen"/>pal: ſeriouſly to deliberate be<g ref="char:EOLhyphen"/>fore
+<pb n="45" facs="tcp:59399:28"/>
+we attempt any thing; and having reſolved, neither to delay, nor unſeaſonably to haſten execution; but accute<g ref="char:EOLhyphen"/>ly to compare times, perſons, places, and things, together. That may be ſeaſonable now, which will not be ſo hereafter; that may pleaſe and profit this perſon, which will diſpleaſe another; but if thou wouldſt be wiſe, ſee that the foun<g ref="char:EOLhyphen"/>dation upon which, the rule by which, and the end for which thy deſignes are un<g ref="char:EOLhyphen"/>dertaken, be right; ſo ſhalt thou either find ſucceſs in thy attempt, or a bleſſing in thy diſappointment. Be careful to know, and take thy opportunity to foreſee and
+<pb n="46" facs="tcp:59399:29"/>
+prevent future danger, but eſpecially to ſecure thy princi<g ref="char:EOLhyphen"/>pal concerns, through all chan<g ref="char:EOLhyphen"/>ges. The heart being whole, the reſt of the body will do the better; the principal being ſafe, other damages are reco<g ref="char:EOLhyphen"/>verable. In ſhort, be as wiſe as Serpents, and harmleſs as Doves. Wiſdom without inno<g ref="char:EOLhyphen"/>cency, is knavery; innocency without wiſdom is foolery; the innocency of the Dove, corrects the ſubtilty of the Serpent, the ſubtilty of the Serpent, inſtructs the innocen<g ref="char:EOLhyphen"/>cy of the Dove; what God hath joyned, let no man ſepa<g ref="char:EOLhyphen"/>rate; and if thou deſireſt to be wiſer, yet, think not thy ſelf yet wiſe enough,; if thou
+<pb n="47" facs="tcp:59399:29"/>
+deſireſt to improve knowledg in thy ſelf, deſpiſe not the in<g ref="char:EOLhyphen"/>ſtruction of another. He that inſtructs him that thinks him<g ref="char:EOLhyphen"/>ſelf wiſe enough, hath a fool to his Scholar; he that thinks himſelf wiſe enough to inſtruct himſelf, hath a fool to his Ma<g ref="char:EOLhyphen"/>ſter. If thou be not a <hi>Pro<g ref="char:EOLhyphen"/>metheus</hi> to adviſe before thou doſt, be an <hi>Epimetheus,</hi> to ex<g ref="char:EOLhyphen"/>amine what thou haſt done; when want of advice hath brought forth an improvident act, the act of examination may produce a profitable re<g ref="char:EOLhyphen"/>pentance.</p>
+            </div>
+            <div n="23" type="chapter">
+               <head>CHAP. XXIII.</head>
+               <p>HAſt thou any buſineſs of conſequence in agitation,
+<pb n="48" facs="tcp:59399:30"/>
+let thy care, and endeavour to accompliſh it, be reaſonable and ſeaſonable. Continual ſtanding bent weakens the Bow, too haſty drawing breaks it. Put off thy cares with thy clothes, ſo ſhall thy reſt ſtrengthen thy labour, and thy labour ſweeten thy reſt. And in the diligent uſe of ſuch law<g ref="char:EOLhyphen"/>ful means as may conduce to effect thy deſign, have an eye to him who alone ſpeeds every action after the pleaſure of his own will: remember the race is not to the ſwift, nor the battel to the ſtrong; 'tis not the prediction of thoſe things that are accounted ominous, nor the influence of the ſtars ſo much inſiſted on, in Judici<g ref="char:EOLhyphen"/>all
+<pb n="49" facs="tcp:59399:30"/>
+Aſtrology, nor thy beſt en<g ref="char:EOLhyphen"/>deavours, that gives the cer<g ref="char:EOLhyphen"/>tain event; but every mans Judgment is from the Lord; commit thy way therefore un<g ref="char:EOLhyphen"/>to him, and he will give thee the deſire of thine heart; ac<g ref="char:EOLhyphen"/>quieſce in that iſſue he gives to all thy endeavours, ſo ſhalt thou be the ſubject of peace, and the object of his favour, whoſe loving kindneſs is bet<g ref="char:EOLhyphen"/>ter then life it ſelf.</p>
+            </div>
+            <div n="24" type="chapter">
+               <head>CHAP. XXIV.</head>
+               <p>RAther be doing nothing to purpoſe, then be idle, that the Devil may find thee doing; for whom he finds idle, he im<g ref="char:EOLhyphen"/>ployes. The Bird that ſits, is eaſily ſhot, when flyers eſcape
+<pb n="50" facs="tcp:59399:31"/>
+the fowler. Conſider the hea<g ref="char:EOLhyphen"/>vens are in continual motion, the winds blow, and the rivers haſten from whence they came; and ſhall Man be idle, who hath ſuch an unwearied principle of Action, as is his immortal ſpirit! Idleneſs is the dead Sea that ſwallows up all vertue, and the ſelf-made ſe<g ref="char:EOLhyphen"/>pulcher of a living man. The Idle man is the Devils hire<g ref="char:EOLhyphen"/>ling, whoſe livery is raggs, whoſe diet and wages are Fa<g ref="char:EOLhyphen"/>mine and diſeaſes. Idleneſs is prodigal of precious time, dulleth the underſtanding, nouriſheth corrupt humours in the body, weakens the brain, and diſpleaſeth God; there fore be not idle.</p>
+            </div>
+            <div n="25" type="chapter">
+               <pb n="51" facs="tcp:59399:31"/>
+               <head>CHAP. XXV.</head>
+               <p>REad not Books alone, but Men; and that thou mayſt better underſtand the perſons thou doſt converſe with, know there be three principles or motives which move and incline moſt men in their principal actings. The firſt and greateſt is Religion: if thou find a perſon zealouſly affected to Religion, thou ſhalt ever find this perſon active to propagate and promote his Religion; and although he may be interrupted by the in<g ref="char:EOLhyphen"/>fluence of times, or neceſſity of his condition, yet this is the mark he aims at, and as far as opportunity ſerves him, he will
+<pb n="52" facs="tcp:59399:32"/>
+ſerve it. The ſecond grand principle of Action like to this, yet inferiour, is temporal in<g ref="char:EOLhyphen"/>tereſt. Intereſt will not lye; every wiſe man will be true to his own intereſt. If ever thou diſcern the intereſt of ſuch a one wherein it lyeth, thou mayſt be ſure where to find him; for all his actions are but as ſo many circumferential lines, which ever center in this point. If his intereſt lye in honour, he will ever be pro<g ref="char:EOLhyphen"/>jecting what may preſerve and encreaſe his honour; the like of wealth, pleaſure, <hi>&amp;c.</hi> The third thing which doth ſway and byaſs men in their actings is their natural inclination and complexion. The Melancho<g ref="char:EOLhyphen"/>ly
+<pb n="53" facs="tcp:59399:32"/>
+is ever auſtere, reſerved, ſi<g ref="char:EOLhyphen"/>lent, envious, not eaſily pro<g ref="char:EOLhyphen"/>voked to anger, but if angry, hard to be reconciled, Super<g ref="char:EOLhyphen"/>ſtitious, Jealous; and ſeldom merry, but when merry, very merry; black and ſwarthy. The Sanguine is affable, cour<g ref="char:EOLhyphen"/>teous, pleaſant and merry, not eaſily provoked to anger, nor long continuing ſo, fair and ruddy. The Phlegmatick is dull and ſlow in all his motions of few words, not curious, but plain and peaceable, not amo<g ref="char:EOLhyphen"/>rous, but rather the contrary, pale, and white, and enclined at leaſt to be corpulent. The Cholerick is unconſtant, free, and liberal, ſoon angry, and ſoon pleaſed, not to be truſted
+<pb n="54" facs="tcp:59399:33"/>
+with ſecrets, quick of inventi<g ref="char:EOLhyphen"/>on, but not ſo ſollid in judg<g ref="char:EOLhyphen"/>ment, bold, audacious, and gi<g ref="char:EOLhyphen"/>ven to boaſting, of a yellow or tawny colour. Now as any perſon partakes of any of theſe, more or leſs, ſo is he more or leſs ſubject to the qua<g ref="char:EOLhyphen"/>lities and conditions before mentioned; and although the byaſs of his condition, the ge<g ref="char:EOLhyphen"/>nious of the time, the influence of his companions, or the ne<g ref="char:EOLhyphen"/>ceſſity of his imployment, may draw, or drive, him beſides his natural temper, yet in this he dwells, and according to this he is and acts moſt certainly, and conſtantly. If thou be to deal with a Chollerick man, and ſtir him perchance to ſome
+<pb n="55" facs="tcp:59399:33"/>
+paſſionate out-ſtray or inde<g ref="char:EOLhyphen"/>cency, neither let thy paſſion kindle with his, nor be diſ<g ref="char:EOLhyphen"/>may'd; his good nature, when the hot blood retires, will be apt to yield and gratifie ſo much the more; if with a ti<g ref="char:EOLhyphen"/>morous man, thou mayſt awe him with thy intereſt in ſome grandee; if with a Melancho<g ref="char:EOLhyphen"/>ly man, thou may'ſt oblige him by intruſting him with ſome ſecret, whereby thou wilt not only create in him a confi<g ref="char:EOLhyphen"/>dence of thy being his friend, but thou wilt make him firm<g ref="char:EOLhyphen"/>ly thine; if with a covetous man, thou muſt gain him with gifts, or with hopes at leaſt of gaining by thee. And mark it, thou ſhalt find for the moſt
+<pb n="56" facs="tcp:59399:34"/>
+part, young men prodigal, the middle-aged proud, and old men covetous. If thy deſign be upon a proud man to make him thine, let him know thine and the worlds admiration of him; this will oyl and ſupple him, that thou may'ſt bend him at thy pleaſure; but to the Drunkard commit no ſecrets, and of the Envious have a care; for who can ſtand be<g ref="char:EOLhyphen"/>fore Envy? The injured man doth ſometimes forget; but the envious man will never ceaſe ſecretly to perſecute.</p>
+            </div>
+            <div n="26" type="chapter">
+               <head>CHAP. XXVI.</head>
+               <p>IF thou be ſtrong enough to encounter with the times, keep thy ſtation; if not, ſhift
+<pb n="57" facs="tcp:59399:34"/>
+a foot, to gain advantage of the times. He that to prevent a thief acts the beggar, is not the poorer. It is a great part of wiſdom ſometimes to ſeem a fool; he leaſt fayls in his de<g ref="char:EOLhyphen"/>ſignes that can meet time in its own way; yet it is not al<g ref="char:EOLhyphen"/>wayes ſafe to comply with every thing the time brings forth, but adhere to the un<g ref="char:EOLhyphen"/>doubted principles of equity and reaſon, alwayes and in every thing uſing modera<g ref="char:EOLhyphen"/>tion; for as violence never holdeth long, ſo it expoſeth the perſon guilty of it to ma<g ref="char:EOLhyphen"/>ny inconveniencies.</p>
+            </div>
+            <div n="27" type="chapter">
+               <pb n="58" facs="tcp:59399:35"/>
+               <head>CHAP. XXVII.</head>
+               <p>BE not cenſorious, for thou knoweſt not whom thou judgeſt. It is a more dextrous errour to ſpeak well of an evil man, then ill of a good man; and ſafer for thy judgment to be led by ſimple charity, then by uncharitable wiſdom. And before thou reprehend ano<g ref="char:EOLhyphen"/>ther, take heed thou art not culpable in what thou goeſt about to reprehend. He that cleanſeth a blot with blotted fingers, makes a greater blurr. He may tax others with privi<g ref="char:EOLhyphen"/>ledge that hath not in himſelf what others may tax; the cen<g ref="char:EOLhyphen"/>ſorious will ever be cenſured. And cenſure not him whom
+<pb n="59" facs="tcp:59399:35"/>
+the looſer world calls <hi>Puritane;</hi> if he be an Hypocrite, God that knows him will reward him; if zealous, God that loves him will revenge him; if he be good, he is good to Gods glo<g ref="char:EOLhyphen"/>ry, if evil, let him be evil at his own charges; he that judg<g ref="char:EOLhyphen"/>eth ſhall be judged.</p>
+            </div>
+            <div n="28" type="chapter">
+               <head>CHAP. XXVIII.</head>
+               <p>IN thy pleading with ano<g ref="char:EOLhyphen"/>ther, ever uſe calmneſs; for the ſtronger thy paſſion is, the weaker will be thy argument, and thou the leſs able to main<g ref="char:EOLhyphen"/>tain it. Let the end of thy Argument be rather to diſco<g ref="char:EOLhyphen"/>ver a doubtful truth, then a commanding wit: in the one thou ſhalt gain ſubſtance, in
+<pb n="60" facs="tcp:59399:36"/>
+the other f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth. Covet to be truths Champion, at leaſt to hold her Colours. He that pleads againſt the truth, takes pains to be overthrown; or if a conquerour, gains but vain glory by the conqueſt. Though time or argument may ſeem to cut the ſinews, and clip the wings of truth, yet even then when it ſeemeth dead, it riſeth as immortal, with greateſt luſtre, and is that firm centre wherein all things repoſe, that chart by which every wiſe Pi<g ref="char:EOLhyphen"/>lot doth ſayl, that rock where<g ref="char:EOLhyphen"/>on we reſt, that Lamp which lighteth our paths that we may go aright, that ſhield which will defend us, and that foundation whereon we may
+<pb n="61" facs="tcp:59399:36"/>
+ſafely build all our actions and expectations.</p>
+            </div>
+            <div n="29" type="chapter">
+               <head>CHAP. XXIX.</head>
+               <p>LEt thy religious faſt be a voluntary abſtinence; not ſo much from fleſh, as from fleſhly thoughts. God is plea<g ref="char:EOLhyphen"/>ſed with the faſt, which gives to another, what thou denyeſt to thy ſelf, when the affliction of thy own body is the repair<g ref="char:EOLhyphen"/>ing of thy Brothers. He faſts truly that abſtaines ſadly, grieves really, gives chearfully and forgives charitably. And in all religious acts, for thy manner of performance, be not too much wedded to thy own opinion; but in thoſe ceremonies of the Church
+<pb n="62" facs="tcp:59399:37"/>
+which remain indifferent, do according to the conſtitution of that Church where thou art. The God of Order, and Unity, who created both Soul, and Body, expects Unity in the one, and order in both. 'Tis not ceremony, but ſubſtance, that beſt pleaſeth God, who being a Spirit delights moſt in that ſervice, which is moſt ſpiritual and according with his will revealed in his word.</p>
+            </div>
+            <div n="30" type="chapter">
+               <head>CHAP. XXX.</head>
+               <p>BEware of him that is ſlow to anger. Anger when it is long in coming, is the ſtron<g ref="char:EOLhyphen"/>ger when it comes, and the longer kept; abuſed patience turnes to fury. When fancy is
+<pb n="63" facs="tcp:59399:37"/>
+the ground of paſſion, that underſtanding which compo<g ref="char:EOLhyphen"/>ſes the fancy, qualifies the paſſion; but when judgment is the ground, the memory is the Recorder, and this paſſion is long retained.</p>
+            </div>
+            <div n="31" type="chapter">
+               <head>CHAP. XXXI.</head>
+               <p>HE that profeſſeth himſelf thy open enemy, armes thee againſt the evil he means thee; but he that diſſembles himſelf thy friend, when he is thy ſecret enemy, ſtrikes be<g ref="char:EOLhyphen"/>yond caution, and wounds above cure: from the firſt thou mayſt deliver thy ſelf; from the laſt good Lord deliver thee.</p>
+            </div>
+            <div n="32" type="chapter">
+               <pb n="64" facs="tcp:59399:38"/>
+               <head>CHAP. XXXII.</head>
+               <p>SEarch into thy ſelf, before thou accept the ceremony of honour: if thou art a Pa<g ref="char:EOLhyphen"/>lace honour (like the Sun-beams) will make thee more glorious, if thou art a dung<g ref="char:EOLhyphen"/>hill the Sun may ſhine upon thee, but not ſweeten thee; thy Prince may give thee ho<g ref="char:EOLhyphen"/>nour, but not make thee ho<g ref="char:EOLhyphen"/>nourable; if vertue prefer thee, vertue will preſerve thee; but that honour which thy wealth hath purchaſed, is neither laſting, nor thy own, but is pinned upon the wheel of Fortune; when the wheel ſhall turn, thy honour falls, and thou remaineſt an everlaſting
+<pb n="65" facs="tcp:59399:38"/>
+monument of thy own ambi<g ref="char:EOLhyphen"/>tious folly. What money cre<g ref="char:EOLhyphen"/>ates, money preſerves; if thy wealth decay, thy honour dies; and conſider, that is but a ſlip<g ref="char:EOLhyphen"/>pery happineſs which fortunes can give, and frowns take a<g ref="char:EOLhyphen"/>way; and not worth the own<g ref="char:EOLhyphen"/>ing, which a nights Fire can melt, or a rough ſea can drown; honour thy Creatour, and he will give thee honour that will endure for ever.</p>
+            </div>
+            <div n="33" type="chapter">
+               <head>CHAP. XXXIII.</head>
+               <p>IF thou ſtudy Law or Phy<g ref="char:EOLhyphen"/>ſick, endeavour to know both, and to need neither; temperate diet, moderate and ſeaſonable labour, reſt, and re<g ref="char:EOLhyphen"/>creation, with Gods bleſſing,
+<pb n="66" facs="tcp:59399:39"/>
+will ſave thee from the Phyſi<g ref="char:EOLhyphen"/>cian; a peaceable diſpoſition prudent and juſt behaviour, will ſecure thee from the Law; yet if neceſſity compel, thou mayſt uſe both; they that uſe either otherwiſe then for ne<g ref="char:EOLhyphen"/>ceſſity, abuſe themſelves in<g ref="char:EOLhyphen"/>to weak bodies, and light pur<g ref="char:EOLhyphen"/>ſes; they are good remedies, bad buſineſs, and worſe recre<g ref="char:EOLhyphen"/>ations.</p>
+            </div>
+            <div n="34" type="chapter">
+               <head>CHAP. XXXIV.</head>
+               <p>BE not ſo mad as to alter that countenance which thy Creatour made thee; re<g ref="char:EOLhyphen"/>member it was the work of his hands; if it be bad, how dareſt thou mend it? If it be good, why doeſt thou mend it? Art thou aſhamed of his work, and
+<pb n="67" facs="tcp:59399:39"/>
+proud of thy own? God made thy face, to be known by; why deſireſt thou to be known by an other; it is a ſhame to adul<g ref="char:EOLhyphen"/>terate modeſty, but more to adulterate nature; lay by thy art, and bluſh not to appear what he bluſheth not to make thee; it is better to be his picture then thy own; that addition which thou makeſt of thy own adds to thy de<g ref="char:EOLhyphen"/>formity, and provokes God to make thee yet more deform<g ref="char:EOLhyphen"/>ed.</p>
+            </div>
+            <div n="35" type="chapter">
+               <head>CHAP. XXXV.</head>
+               <p>IMp not thy wings with the Churches feathers, leſt thou fly to thy own ruine. That God who choſe the Tribe of
+<pb n="68" facs="tcp:59399:40"/>
+                  <hi>Levi</hi> for his Inheritance, pro<g ref="char:EOLhyphen"/>miſed to be theirs, and will protect them; if thou deprive him of his bleſſing, he will purſue thee with his curſe. Impropriations are bold Me<g ref="char:EOLhyphen"/>taphors, but being continued are deadly Allegories. One foot of Land <hi>in Capite</hi> en<g ref="char:EOLhyphen"/>cumbers the whole eſtate. The Eagle ſnatched a cole from the Altar, but it fired her Neſt.</p>
+            </div>
+            <div n="36" type="chapter">
+               <head>CHAP. XXXVI.</head>
+               <p>BE not unſtable in thy re<g ref="char:EOLhyphen"/>ſolutions, nor various in thy actions, nor unconſtant in thy affections; ſo deliberate that thou mayſt perform; ſo perform, that thou mayſt per<g ref="char:EOLhyphen"/>ſevere.
+<pb n="69" facs="tcp:59399:40"/>
+Mutability is the badge of infirmity.</p>
+            </div>
+            <div n="37" type="chapter">
+               <head>CHAP. XXXVII.</head>
+               <p>SIt down content with Gods allowance, what ever thy condition be; he knoweth beſt what is beſt for thee; let thy endeavour be to pleaſe him in what thou doſt, and to be plea<g ref="char:EOLhyphen"/>ſed with what he doth. Doſt thou want things neceſſary, grumble not, perchance it was neceſſary for thee to want; endeavour lawfully to ſupply it; if God bleſs not thy en<g ref="char:EOLhyphen"/>deavours, bleſs him that know<g ref="char:EOLhyphen"/>eth what is neceſſary for thee: haſt thou but a little, make it not leſs by murmuring; haſt thou enough, make it not too
+<pb n="70" facs="tcp:59399:41"/>
+much by unthankfulneſs; he that doth not contentedly and thankfully accept the leaſt fa<g ref="char:EOLhyphen"/>vour he hath received, is un<g ref="char:EOLhyphen"/>worthy of the leaſt favour he can receive; and that thou mayſt the better be content; conſider thy own merit, thou doſt enjoy far more and far better then thou canſt de<g ref="char:EOLhyphen"/>ſerve; and remember thy ſelf with all thy concerns to be at the wiſe, gracious, and abſolute diſpoſe of the omnipotent and omniſcient God, whoſe purpo<g ref="char:EOLhyphen"/>ſes thou canſt not vary with all thy fretting and diſcontent; thereby thou doſt only make thy being the more uncomfor<g ref="char:EOLhyphen"/>table, and add to thy burden; doſt thou look on thy right
+<pb n="71" facs="tcp:59399:41"/>
+hand, and find ſome above thee; look on thy left, and thou ſhalt ſee ſome below thee; but if thou haſt no inferiour, wait but a while and thou ſhalt have no ſuperiour; the grave (which haſtneth to come up<g ref="char:EOLhyphen"/>on all living) makes all equal, and puts a period to all thy preſſures.</p>
+            </div>
+            <div n="38" type="chapter">
+               <head>CHAP. XXXVIII.</head>
+               <p>ARt thou ſubject to any great vanity, or ſecret folly, nouriſh it not; if it will be entertain'd, encourage it not; if it grow ſtronger yet, more ſtrongly ſtrive againſt it; if too ſtrong, pray againſt it; if it weaken not, joyn faſting to the prayer; if it ſhall con<g ref="char:EOLhyphen"/>tinue,
+<pb n="72" facs="tcp:59399:42"/>
+add perſeverance to both; if it decline not, add patience to all, and thou haſt conquered it; however blabb not thy folly, leſt thou appear impudent; nor boaſt of it, leſt thou ſeem inſolent; every mans vanity ought to be his greateſt ſhame, and every mans folly ought to be his greateſt ſecret.</p>
+            </div>
+            <div n="39" type="chapter">
+               <head>CHAP. XXXIX.</head>
+               <p>TAke heed thou harbour not that vice called En<g ref="char:EOLhyphen"/>vy, leſt anothers happineſs be thy torment, and Gods bleſſing thy curſe; it being the property of envy ever to maligne an others proſperity. Vertue corrupted with vain<g ref="char:EOLhyphen"/>glory
+<pb n="73" facs="tcp:59399:42"/>
+glory turnes Pride; Pride poy<g ref="char:EOLhyphen"/>ſoned with malice becomes envy: joyn therefore humili<g ref="char:EOLhyphen"/>ty with thy vertue, and pride ſhall have no footing; vain<g ref="char:EOLhyphen"/>glory ſhall find no entrance.</p>
+            </div>
+            <div n="40" type="chapter">
+               <head>CHAP. XL.</head>
+               <p>PRovidence is an exerciſe of reaſon; experience an act of ſence; by how much reaſon excells ſence, by ſo much providence exceeds ex<g ref="char:EOLhyphen"/>perience; Providence is the rational Daughter of wiſdom; Experience the Empirical Mi<g ref="char:EOLhyphen"/>ſtris of Fools: if thou haſt providence to fore-ſee a dan<g ref="char:EOLhyphen"/>ger, let thy prudence rather prevent it then fear it; the fear of future evils often<g ref="char:EOLhyphen"/>times
+<pb n="74" facs="tcp:59399:43"/>
+brings a preſent miſchief: whileſt thou ſeekeſt to pre<g ref="char:EOLhyphen"/>vent it, practiſe to bear it; he is a wiſe man that can avoid an evil; he is a patient man that can endure it; but he is a valiant man that can con<g ref="char:EOLhyphen"/>quer it. Never fear any thing but what thy induſtry may prevent; be confident of no<g ref="char:EOLhyphen"/>thing, but what fortune cannot defeat. It is no leſs folly to fear what is impoſſible to be avoided, then to be ſecure when there is a poſſibillity of being deprived.</p>
+            </div>
+            <div n="41" type="chapter">
+               <head>CHAP. XLI.</head>
+               <p>IF God hath ſent thee a Croſs, take it up and follow him; uſe it wiſely, leſt it be unpro<g ref="char:EOLhyphen"/>fitable;
+<pb n="75" facs="tcp:59399:43"/>
+bear it patiently, leſt it be intollerable; behold in it Gods anger againſt thy ſin, and his love towards thee, in puniſhing the one, and chaſten<g ref="char:EOLhyphen"/>ing the oth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<g ref="char:punc">▪</g> if it be light, ſleight it not; if heavy, mur<g ref="char:EOLhyphen"/>mur not. Not to be ſenſible of a judgment, is the ſymptome of an hardned heart; to be diſpleaſed with Gods pleaſure is the ſign of a rebellious will: And to faint in the day of ad<g ref="char:EOLhyphen"/>verſity, argues thy ſtrength to be but ſmall.</p>
+            </div>
+            <div n="42" type="chapter">
+               <head>CHAP. XLII.</head>
+               <p>BE ever mindful of thy lat<g ref="char:EOLhyphen"/>ter end, leſt Death come upon thee unawares, and find thee unprepared; and thou repent that thou haſt lived,
+<pb n="76" facs="tcp:59399:44"/>
+being now to dye, and to dye eternally; expect it, for it will come: if thou expect it as a friend, prepare to entertain it; if as an enemy, prepare to over<g ref="char:EOLhyphen"/>come it; Death hath no ad<g ref="char:EOLhyphen"/>vantage but where it comes a ſtranger, yet come it will, for ſpend an hundred years in Earths beſt pleaſures, and af<g ref="char:EOLhyphen"/>ter that, an hundred more; to which, being ſpent, add a thouſand, and to that ten thou<g ref="char:EOLhyphen"/>ſand more, the laſt ſhall as ſurely end, as the firſt are end<g ref="char:EOLhyphen"/>ed, and all ſhall be ſwallowed up in Eternity: he that is born to day, is not ſure to live a day; he that hath liv'd the longeſt, is but as he that was born yeſterday; the happineſs of the
+<pb n="77" facs="tcp:59399:44"/>
+one is, that he hath lived; the happineſs of the other is, that he may live, and the lot of both, that they muſt die: it is no happineſs to live long, nor unhappineſs to dye ſoon; hap<g ref="char:EOLhyphen"/>py is he that hath lived long enough to dye well, he ſhall live for ever: look upon thy burning taper, and there ſee the Emblem of thy life, the flame is thy ſoul, the wax thy body, and is commonly a<gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> long, the wax (if <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tempered) can <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> length, and who can <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it? if ill tempered, it <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the faſter, yet laſt his length; an open window ſhall h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n either; an extinguiſher ſhall put out both; husband them
+<pb n="78" facs="tcp:59399:45"/>
+the beſt thou canſt, thou canſt not prolong them beyond their date; leave them to the injury of the wind, or to the mercy of a waſteful hand, thou doſt haſten their end, but ſtill they burn their length; but puff them out, and thou haſt ſhortned their paſſage, which elſe had brought them to their appointed end: bodies accor<g ref="char:EOLhyphen"/>ding to their conſtitution, ſtronger or weaker, according to the quality or inequality of their Elements, have their date, and may be preſerved from ſhortning, but they can<g ref="char:EOLhyphen"/>not be lengthened; neglect may waſt them, ill diet may ha<g ref="char:EOLhyphen"/>ſten them unto their journey's end, yet they have lived their
+<pb n="79" facs="tcp:59399:45"/>
+length; a violent hand may interrupt them, a ſudden death may ſtop them, and they are ſhortned: it lies in the pow<g ref="char:EOLhyphen"/>er of man either permiſſively to haſten, or actively to ſhor<g ref="char:EOLhyphen"/>ten, but not to lengthen, or extend the limits of his natu<g ref="char:EOLhyphen"/>ral life; he only if any hath the Art to lengthen out his Taper, that puts it to the beſt advantage.</p>
+            </div>
+            <div n="43" type="chapter">
+               <head>CHAP. XLIII.</head>
+               <p>TAke heed rather what thou receiveſt, then what thou giveſt; what thou giveſt leaves thee; what thou receiv<g ref="char:EOLhyphen"/>eſt ſticks by thee. He that preſents a gift buyes the re<g ref="char:EOLhyphen"/>ceiver; he that receives a gift
+<pb n="80" facs="tcp:59399:46"/>
+fells his liberty; if thou giveſt, give to a right end; if thou giveſt to receive the like a<g ref="char:EOLhyphen"/>gain, it is exchange; if to re<g ref="char:EOLhyphen"/>ceive more, it is covetouſneſs; if to receive thanks, it is vani<g ref="char:EOLhyphen"/>ty; if to be ſeen, it is vain<g ref="char:EOLhyphen"/>glory; if to corrupt, it is bri<g ref="char:EOLhyphen"/>bery; if for example, it is for<g ref="char:EOLhyphen"/>mality; if for compaſſion, it is charity; if becauſe thou art commanded, it is obedience; the end and affection in doing, the work gives name to the work done, whether it be good or bad.</p>
+            </div>
+            <div n="44" type="chapter">
+               <head>CHAP. XLIV.</head>
+               <p>CEnſure no man, detract from no man, praiſe no man before his face, traduce
+<pb n="81" facs="tcp:59399:46"/>
+no man behind his back; boaſt not thy ſelf abroad, and flat<g ref="char:EOLhyphen"/>ter not thy ſelf at home; if any thing croſs thee, accuſe thy ſelf; if any one extol thee, humble thy ſelf; honour thoſe that inſtruct thee, and be thankful to thoſe that reprove thee: let all thy deſires be ſub<g ref="char:EOLhyphen"/>ject to reaſon, and let thy rea<g ref="char:EOLhyphen"/>ſon be corrected by Religion; the way to ſubject all things to thy ſelf, is to ſubject thy paſſi<g ref="char:EOLhyphen"/>ons unto reaſon, and thy rea<g ref="char:EOLhyphen"/>ſon unto God; weigh thy ſelf by thine own ballances, and truſt not the voice of wild opinion; obſerve thy ſelf, as thy greateſt enemy, ſo ſhalt thou become thy greateſt friend.</p>
+            </div>
+            <div n="25" type="chapter">
+               <pb n="82" facs="tcp:59399:47"/>
+               <head>CHAP. XLV.</head>
+               <p>IF Opinion have cryed thy name up, let thy modeſty cry thy heart down, leſt thou deceive it, or it thee. There is no leſs danger in a great name then in a bad; and no leſs ho<g ref="char:EOLhyphen"/>nour in endeavouring praiſe, then in deſerving it; but if opinion hath lighted the Lamp of thy fame, encourage it with thy own oyl, leſt it go out and ſtink: the chronical diſ<g ref="char:EOLhyphen"/>eaſe of popularity is ſhame; if thou be once up beware, the way from fame to infamy is a beaten road.</p>
+            </div>
+            <div n="46" type="chapter">
+               <pb n="83" facs="tcp:59399:47"/>
+               <head>CHAP. XLVI.</head>
+               <p>LEt the Holy Scripture be thy delight, and daily me<g ref="char:EOLhyphen"/>ditation; let not thy wanton fancy carve it out in jeſts, nor thy ſinful wit, make it an ad<g ref="char:EOLhyphen"/>vocate to thy ſin; it is a ſub<g ref="char:EOLhyphen"/>ject for thy faith, not fancy; where wit and blaſphemy is one trade, the underſtanding is bankrupt: and ever uſe it with reverence for the Au<g ref="char:EOLhyphen"/>thors ſake, who is God over all, bleſſed for ever, the Father, Son, and holy Ghoſt: we are apt to value, ſtudy, and deſire to underſtand the books of godly, learned, and judicious mens making; how much more ſhould we value, and endea<g ref="char:EOLhyphen"/>vour
+<pb n="84" facs="tcp:59399:48"/>
+to the utmoſt, to under<g ref="char:EOLhyphen"/>ſtand theſe books which are of Gods making: mens writings are too much mingled with vanity, ignorance, folly, mi<g ref="char:EOLhyphen"/>ſtakes, imperfections, infirmi<g ref="char:EOLhyphen"/>ties, and corruptions, ſavou<g ref="char:EOLhyphen"/>ring too much of a carnal ſpi<g ref="char:EOLhyphen"/>rit, when moſt ſpirirual; but Gods word is ſatisfactorily full without all vanity; moſt wiſe, faithful, and true, without all falſhood, or folly; compleatly perfect beyond all imperfecti<g ref="char:EOLhyphen"/>on; moſt pure and exceeding<g ref="char:EOLhyphen"/>ly refined, without all corrup<g ref="char:EOLhyphen"/>tion: the Pen-men thereof not being contemptible or or<g ref="char:EOLhyphen"/>dinary, but incomparable and Extraordinary perſons. <hi>Moſes</hi> the meekeſt man on Earth, the
+<pb n="85" facs="tcp:59399:48"/>
+peculiar favorite of God, with whom he talked face to face. King <hi>David,</hi> that ſweet ſin<g ref="char:EOLhyphen"/>ger of <hi>Iſrael,</hi> that man after Gods own heart. <hi>Solomon</hi> the King, that moſt exquiſite Maſter<g ref="char:EOLhyphen"/>piece for all kind of wiſdom, Natural, Political, and The<g ref="char:EOLhyphen"/>ological, whom God honoured with the building of his Tem<g ref="char:EOLhyphen"/>ple, the like whereof was ne<g ref="char:EOLhyphen"/>ver ſeen. <hi>Daniel,</hi> in whom was found an excellent ſpirit, and great dexterity in ex<g ref="char:EOLhyphen"/>pounding myſteries and ſe<g ref="char:EOLhyphen"/>crets. <hi>Paul,</hi> who was caught up into third heavens; in a word, all of them holy men of God, moved by the holy Ghoſt. Theſe being the Pen-men, how excellent and paſt compare
+<pb n="86" facs="tcp:59399:49"/>
+muſt their writings needs be? Who would not value, ſtudy, and earneſtly pry into them? If thou conſider the manner of Holy Scripture, it is the moſt inviting, able to allure the hearts of men and Angels to the ſtudy of it; yea to raviſh and tranſport their ſpirits in the underſtanding of it; here<g ref="char:EOLhyphen"/>in are revealed moſt profound and inexplicable myſteries; the nature of the bleſſed God, ſimple, without compoſition; All-ſufficient, without any ex<g ref="char:EOLhyphen"/>ternall addition; immutable, without all ſhadow of altera<g ref="char:EOLhyphen"/>tion; eternal, immenſe, incom<g ref="char:EOLhyphen"/>prehenſible, omnipreſent, and wholly infinite, without all li<g ref="char:EOLhyphen"/>mitation; the unity of eſſence,
+<pb n="87" facs="tcp:59399:49"/>
+the Trinity of Perſons, the Fa<g ref="char:EOLhyphen"/>ther not being the Son, nor ei<g ref="char:EOLhyphen"/>ther of them the Holy Ghoſt, yet all of them one, and the moſt holy God. The ſecrets of Gods eternal counſels, e<g ref="char:EOLhyphen"/>ſpecially touching the Electing of his own in Chriſt, predeſti<g ref="char:EOLhyphen"/>nating them to the adoption of Children, when all others are paſſed by: The curious or<g ref="char:EOLhyphen"/>der of the Creation to bring his purpoſes to paſs: the per<g ref="char:EOLhyphen"/>miſſion of mans fall from the pinacle of his natural integri<g ref="char:EOLhyphen"/>ty, that thereby he might take occaſion to glorifie the height of his Juſtice, and Mercy, in raiſing them up by Chriſt to a farr higher pitch of ſuper<g ref="char:EOLhyphen"/>natural felicity. The perſon
+<pb n="88" facs="tcp:59399:50"/>
+and office of Jeſus Chriſt the Mediatour, both altogether wonderfull; God and man u<g ref="char:EOLhyphen"/>nited in one perſon, to unite God and man in one covenant; The Son of God became the Son of man, that the Sons of men might become the ſons of God: A King, to ſubdue all our enemies to us, and us to himſelf: A Prophet, to un<g ref="char:EOLhyphen"/>veil the boſome ſecrets of his father unto us; a Prieſt, of<g ref="char:EOLhyphen"/>fering up himſelf for us, upon himſelf, by himſelf; offering up himſelf the Sacrifice as man, upon himſelf the Altar as God, by himſelf the Preiſt as God-man; Chriſt was hum<g ref="char:EOLhyphen"/>bled, thereby we are exalted; Chriſt accuſed, we cleared:
+<pb n="89" facs="tcp:59399:50"/>
+Chriſt condemned, we juſtified and acquitted; Chriſt accur<g ref="char:EOLhyphen"/>ſed, we bleſſed; Chriſt ſlain, and we live: Chriſt was con<g ref="char:EOLhyphen"/>quered, that we might be more then conquerors through him that loved us. What ſhall I ſay! in Scripture is revealed, how enemies are reconciled; ſin<g ref="char:EOLhyphen"/>ners juſtified; aliens adopted; beggars made heirs, and co-heirs with Jeſus Chriſt; and duſt and aſhes ſhall be glorifi<g ref="char:EOLhyphen"/>ed for evermore: here are un<g ref="char:EOLhyphen"/>folded the Covenant of Grace wholly made up of heavenly cordials; the promiſes of the life that now is, and of that which is to come, exceeding great and precious: The com<g ref="char:EOLhyphen"/>forts of God able to coun<g ref="char:EOLhyphen"/>terpoyze
+<pb n="90" facs="tcp:59399:51"/>
+our deepeſt diſcon<g ref="char:EOLhyphen"/>ſolations, and commands ſur<g ref="char:EOLhyphen"/>paſſing all the Laws in the World, in holineſs, juſtice, and goodneſs. Here are diſcover<g ref="char:EOLhyphen"/>ed the miſeries of all in the firſt <hi>Adam;</hi> the felicities of all that are in the ſecond <hi>Adam;</hi> and the way how poor Souls are tranſlated from thoſe mi<g ref="char:EOLhyphen"/>ſeries to theſe felicities. Here you ſhall find God deſcend<g ref="char:EOLhyphen"/>ing to man, in preparing all ſpiritual priviledges for ſinners in and by Jeſus Chriſt, our Saviour; in rendring richeſt grace by Covenant Promiſes, and Ordinances; and apply<g ref="char:EOLhyphen"/>ing theſe preparations and renders actually to the Soul by the Spirit; and man aſcending
+<pb n="91" facs="tcp:59399:51"/>
+to God by the ſpirituallizing of his nature, acting of his faith, aſpiring of his deſires, fervency of his prayers, and holy tendency of his conver<g ref="char:EOLhyphen"/>ſation; yea, both God and man ſweetly cloſing together, in a moſt intimate communi<g ref="char:EOLhyphen"/>on in Chriſt Jeſus, which is another Paradiſe, and Heaven upon Earth: In a word, what is there not in the holy Scrip<g ref="char:EOLhyphen"/>tures? Are we poor? here's the only way to content, which is the greateſt riches. Are we Sin ſick? here's a ſhop of Soul medicines. Are we faint<g ref="char:EOLhyphen"/>ing? here's a Cabinet of cor<g ref="char:EOLhyphen"/>dialls. Are we Chriſt-leſs? here's the Star that leadeth unto Chriſt. Are we Chriſti<g ref="char:EOLhyphen"/>ans?
+<pb n="92" facs="tcp:59399:52"/>
+here's the band that keeps us in Chriſt. Are we afflicted? here's our ſolace. Are we perſecuted? here's our Protection. Are we deſert<g ref="char:EOLhyphen"/>ed? here's our recovery. Are we tempted? here's our Sword and Victory. Are we young? here's our beauty. Are we old? here's our wiſdom; while we live, here's the rule of our Converſation; when we dye, here's the hope of our Glorification. Oh bleſ<g ref="char:EOLhyphen"/>ſed Scriptures! Who can know them, and not love them? who can love them, and not delight to meditate in them day and night? who can meditate in them, and
+<pb n="93" facs="tcp:59399:52"/>
+not deſire to love them; love to deſire them, and both de<g ref="char:EOLhyphen"/>ſire and love to underſtand them? The Sacred Scripture is the Book of Books; the book of Life, whoſe original is eternal; whoſe eſſence is incorporeal; whoſe knowledg is life; whoſe writing is inde<g ref="char:EOLhyphen"/>lible; whoſe reſpect is deſira<g ref="char:EOLhyphen"/>ble; whoſe doctrine is eaſie; whoſe depth is unſearchable; whoſe words are innumera<g ref="char:EOLhyphen"/>ble; and only one word <hi>All.</hi> To conclude, take one inſtance of the experience of Mrs. <hi>Ka<g ref="char:EOLhyphen"/>tharine Bretergh</hi> of <hi>Breterg<g ref="char:EOLhyphen"/>holt</hi> in <hi>Lancaſhire, Who was wont to task her ſelf to read eight Chapters a day at leaſt; who in her ſickneſs before her
+<pb n="94" facs="tcp:59399:53"/>
+death fell into great diſtreſs of Soul, through an apprehenſion of the ſeverity of Gods Juſtice the greatneſs of her Sins, wa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> of Faith in and love to God; ſometimes ſhe would caſt he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Bible from her, and ſay,</hi> It was indeed the book of Life, but ſhe had read the ſame unpro<g ref="char:EOLhyphen"/>fitably, and it was become to her the book of Death. <hi>Some<g ref="char:EOLhyphen"/>times ſhe would ſay,</hi> Her ſins had made her a prey to Satan, a ſpectacle to the World, a diſ<g ref="char:EOLhyphen"/>grace to Religion, and a ſhame to her Husband, Kindred and all to true Chriſtians; <hi>and here ſhe would weep bitterly;</hi> ſhe wiſh<g ref="char:EOLhyphen"/>ed ſhe had never been born, or that ſhe had been any other Creature then a Woman; <hi>ſhe
+<pb n="95" facs="tcp:59399:53"/>
+cryed out oftentimes,</hi> Wo, wo, wo, a weak, a woful, a wretch<g ref="char:EOLhyphen"/>ed, a forſaken woman; <hi>and ſuch like pitiful complaints againſt her ſelf, with tears trickling down her cheeks; but at laſt ſhe was reſtored to joys and comforts unſpeakable by means of the holy Scriptures:</hi> Oh (ſaid ſhe) My Soul hath been compaſſed about with terrours of death, fear with<g ref="char:EOLhyphen"/>in, and fear without; the ſor<g ref="char:EOLhyphen"/>rows of Hell were upon me, knots and knors were upon my Soul; a roaring Wilderneſs of wo was within me: but Bleſſed! bleſſed! bleſſed be the Lord my God, who hath not left me comfortleſs. <hi>One time ſhe took Bible in her hand, and joyfully
+<pb n="96" facs="tcp:59399:54"/>
+kiſſing it, and looking up to<g ref="char:EOLhyphen"/>wards Heaven, (ſhe ſaid)</hi> Oh Lord, it is good for me that I have been afflicted, that I might learn thy Statutes; the law of thy mouth is better to me then thouſands of Gold and Silver: <hi>She deſired her Husband to read ſome part of Scripture, he read the</hi> 17 <hi>of</hi> John, <hi>as he read verſ.</hi> 9. I pray not for the World, but for them which thou haſt given me, for they are thine; <hi>She interrupted him ſaying,</hi> Oh Lord Jeſus doſt thou pray for me? Oh bleſſed and ſweet Saviour, doſt thou pray for me? Oh how wonderful! how wonderful! how won<g ref="char:EOLhyphen"/>derful are thy mercies!
+<pb n="97" facs="tcp:59399:54"/>
+read on, ſaid ſhe, the bleſſedſt reading that ever I heard, the comfort whereof doth ſweeten my Soul. When he came to ver. 34. Father I will, that they whom thou haſt given me, be one with me. Stay, ſaid ſhe, and let me meditate on the good<g ref="char:EOLhyphen"/>neſs of the Lord, for now I perceive and feel the counte<g ref="char:EOLhyphen"/>nance of my Redeemer, Chriſt is turned towards me, and the bright ſhining beams of his mercy are ſpread over me. Oh! happy am I that ever I was born, to ſee this bleſſed day: Praiſe! praiſe! Oh praiſe the Lord for his mercies; he hath brought me out of dark<g ref="char:EOLhyphen"/>neſs, and the ſhadow of death. Oh ſweet Saviour, ſhall I be
+<pb n="98" facs="tcp:59399:55"/>
+one with thee, as thou art one with thy Father? and wilt thou glorifie me with that glory which thou hadſt with the Father before the World was? And doſt thou ſo love me who am but duſt and aſhes, to make me partaker of thy own glory? What am I poor wretch, that thou art ſo mind<g ref="char:EOLhyphen"/>full of me? Oh how wonder<g ref="char:EOLhyphen"/>ful is thy love, <hi>&amp;c. Thus ſhe continued raviſhed in Spirit, and triumphing in Gods pray<g ref="char:EOLhyphen"/>ſes till her laſt. At laſt with a ſweet countenance and ſtill voice, ſhe ſaid, my warfare is accompliſhed, and mine iniqui<g ref="char:EOLhyphen"/>ties are pardoned;</hi> Lord, whom have I in Heaven but thee? and I have none on Earth but thee;
+<pb n="99" facs="tcp:59399:55"/>
+my fleſh faileth, and mine heart alſo; but God is the ſtrength of my heart, and my portion for ever; He that preſerveth <hi>Jacob,</hi> and defendeth <hi>Iſrael,</hi> he is my God, and he will guide me unto Death; guide me O Lord my God, and ſuffer me not to faint, but keep my Soul in ſafety: <hi>And with that ſhe preſently departed this life.</hi> Thus we ſee how uſeful the holy Scripture is to every Chriſtian Soul; and how God thereby gives comfort to thoſe who are his, when all other comforts fail them: make it ever therefore thy delight, and thy daily companion; for take all the rareſt writings now ex<g ref="char:EOLhyphen"/>tant in the world, none of
+<pb n="100" facs="tcp:59399:56"/>
+them all can thus raiſe up a drooping Spirit, or diſconſo<g ref="char:EOLhyphen"/>late Soul, from the depth of wo and horror; none of them can fill the heart thus brimful of ſweeteſt peace; none of them all can thus enlarge and entranſe the Spirit to extaſies of Heavenly Joy, and raviſh<g ref="char:EOLhyphen"/>ments, through apprehenſions of Gods love, and mercy; above grief, above temptation, above ſin, above all fear of Death, that King of Terrours; as this bleſſed word of God can: who would not now la<g ref="char:EOLhyphen"/>bour to underſtand the Scrip<g ref="char:EOLhyphen"/>tures; who would not trea<g ref="char:EOLhyphen"/>ſure up, and kiſs, and embrace, and greedily ſwallow down theſe Soul-reviving Cordials.</p>
+            </div>
+            <div n="47" type="chapter">
+               <pb n="101" facs="tcp:59399:56"/>
+               <head>CHAP. XLVII.</head>
+               <p>IN Civil things follow the moſt, in matters of Religi<g ref="char:EOLhyphen"/>on the feweſt, in all things fol<g ref="char:EOLhyphen"/>low the beſt; ſo ſhall thy ways be pleaſing to God; ſo ſhall thy behaviour be plauſible with men; but follow not a multitude in the evil of Sin, leſt thou ſhare with the mul<g ref="char:EOLhyphen"/>titude in the evil of puniſh<g ref="char:EOLhyphen"/>ment; the number of the offendors diminiſheth not the quality of the offence. As the multitude of ſuiters draws more favour to the ſuit; ſo the multitude of ſinners draws more puniſhment upon the ſin; the number of Fa<g ref="char:EOLhyphen"/>gots encreaſeth the fury of the fire.</p>
+            </div>
+            <div n="48" type="chapter">
+               <pb n="102" facs="tcp:59399:57"/>
+               <head>CHAP. XLVIII.</head>
+               <p>HAth any wounded thee with injuries, meet them with patience; haſty words rankle the wound, ſoft lan<g ref="char:EOLhyphen"/>guage dreſſes it, forgiveneſs cures it, and oblivion takes away the ſcar. It is more no<g ref="char:EOLhyphen"/>ble by ſilence to avoid an in<g ref="char:EOLhyphen"/>jurie, then by Argument to overcome it.</p>
+            </div>
+            <div n="49" type="chapter">
+               <head>CHAP. XLIX.</head>
+               <p>LEt not mirth be thy pro<g ref="char:EOLhyphen"/>feſſion, leſt thou become a make-ſport: he that hath but gained the Title of a Ge<g ref="char:EOLhyphen"/>ſter, let him aſſure himſelf the fool is not far off: wrinckle not thy face with too much
+<pb n="103" facs="tcp:59399:57"/>
+laughter, leſt thou become ridiculous. The Suburbs of folly is vain mirth, and pro<g ref="char:EOLhyphen"/>fuſeneſs of laughter is the Ci<g ref="char:EOLhyphen"/>ty of Fools; yet be not too ſadd, leſt thou be thought ſullen; nor too auſtere, leſt thou be thought male content; not too demure, and preciſe, leſt thou diſtaſt the company, and incline to melancholly, then which nothing can be more hurtful to body or mind.</p>
+            </div>
+            <div n="50" type="chapter">
+               <head>CHAP. L.</head>
+               <p>VErtue is nothing but an act of loving, that which is to be beloved; and that act is prudence, from whence not to be removed by con<g ref="char:EOLhyphen"/>ſtraint is fortitude; not to be
+<pb n="104" facs="tcp:59399:58"/>
+allured by inticements is tem<g ref="char:EOLhyphen"/>perance, not to be diverted by pride is juſtice, the declin<g ref="char:EOLhyphen"/>ing of this act is vice.</p>
+            </div>
+            <div n="51" type="chapter">
+               <head>CHAP. LI.</head>
+               <p>LOve thy neighbour for Gods ſake, and God for his own ſake, who created all things for thy ſake, and re<g ref="char:EOLhyphen"/>deemed thee for his mercy ſake; if thy love hath any other object, it is falſe love; if thy object hath any other end, it is ſelf love.</p>
+            </div>
+            <div n="52" type="chapter">
+               <head>CHAP. LII.</head>
+               <p>IF thou deſireſt reſt unto thy ſoul, be juſt; he that doth no injury, fears not to ſuffer injury; the unjuſt mind is alwayes in labour, it either
+<pb n="105" facs="tcp:59399:58"/>
+practiſeth the evil it hath pro<g ref="char:EOLhyphen"/>jected; or projects to avoid the evil it hath deſerved.</p>
+            </div>
+            <div n="53" type="chapter">
+               <head>CHAP. LIII.</head>
+               <p>COnſider what thou waſt, what thou art, and what thou ſhalt be; thy firſt being was rude and indigeſted clay, thy now being is clay refined, but decaying, and thou haſt<g ref="char:EOLhyphen"/>neſt to return from whence thou art, for duſt thou art, and to duſt thou ſhalt return. Con<g ref="char:EOLhyphen"/>ſider what's above thee, what's beneath thee, and what's within thee: God's all-ſeeing Eye is above to obſerve thee; his Almighty hand to protect, puniſh, or reward thee, accor<g ref="char:EOLhyphen"/>ding to thy doings; Hell is be<g ref="char:EOLhyphen"/>neath to tempt thee here,
+<pb n="106" facs="tcp:59399:59"/>
+and to torment thee hereafter; within thee is thy conſcience, a thouſand witneſſes againſt, or for thee. Theſe conſidera<g ref="char:EOLhyphen"/>tions will bring to thy ſelf humility, to thy neighbour charity, to the world con<g ref="char:EOLhyphen"/>tempt, and to God obedience, which will Crown thee with eternal felicity.</p>
+            </div>
+            <div n="54" type="chapter">
+               <head>CHAP. LIV.</head>
+               <p>CHarity is a naked Child, giving honey to a Bee without wings; naked, becauſe excuſeleſs, and ſimple; a Child, becauſe tender and growing; giving honey, be<g ref="char:EOLhyphen"/>cauſe honey is pleaſant and comfortable; to a Bee, becauſe a Bee is laborious, and deſerv<g ref="char:EOLhyphen"/>ing;
+<pb n="107" facs="tcp:59399:59"/>
+without wings, becauſe wanting and helpleſs: if thou denyeſt to ſuch, thou killeſt a Bee; if thou giveſt to other then ſuch, thou preſerveſt a drone.</p>
+            </div>
+            <div n="55" type="chapter">
+               <head>CHAP. LV.</head>
+               <p>LEt anothers Paſſion be a lecture to thy Reaſon; and let the Ship-wrack of his Underſtanding be a Sea-mark to thy Paſſion, ſo ſhalt thou gain ſtrength out of his weak<g ref="char:EOLhyphen"/>neſs, ſafety out of his danger; and raiſe thy ſelf a building out of his ruines.</p>
+            </div>
+            <div n="56" type="chapter">
+               <head>CHAP. LVI.</head>
+               <p>IF thou expect to riſe by the means of him whom thy
+<pb n="108" facs="tcp:59399:60"/>
+Fathers greatneſs raiſed from his ſervice, to court prefer<g ref="char:EOLhyphen"/>ment, thou wilt be deceived; for the more in eſteem thou art, the more ſenſible is he of what he was; whoſe former ſervitude will be Chronicled by thy advancement, and glo<g ref="char:EOLhyphen"/>ry obſcured by thy greatneſs; however he will conceive it a dead ſervice, which may be interpreted by thee as a meri<g ref="char:EOLhyphen"/>ted reward, rather then a me<g ref="char:EOLhyphen"/>ritorious benefit.</p>
+            </div>
+            <div n="57" type="chapter">
+               <head>CHAP. LVII.</head>
+               <p>IF thou deſireſt to take the beſt advantage of thy ſelf, eſpecially in matters where the fancy is moſt imployed, keep temperate diet, uſe mo<g ref="char:EOLhyphen"/>derate
+<pb n="109" facs="tcp:59399:60"/>
+exerciſe, obſerve ſea<g ref="char:EOLhyphen"/>ſonable and ſet hours for reſt, let the end of thy firſt ſleep raiſe thee from thy repoſe; then hath thy body the beſt temper, then hath thy ſoul the leaſt incumbrance, then no noyſe ſhall diſturb thine ear, no object ſhall divert thine eye; then, if ever, ſhall thy ſprightly fancy tranſport thee beyond the common pitch, and ſhew the magazeen of high invention.</p>
+            </div>
+            <div n="58" type="chapter">
+               <head>CHAP. LVIII.</head>
+               <p>SO uſe proſperity that ad<g ref="char:EOLhyphen"/>verſity may not abuſe thee. If in proſperity thy ſecurity admits no fear; in adverſity thy deſpair will afford no
+<pb n="110" facs="tcp:59399:61"/>
+hope, he that in proſperity can foretel a danger, can in adverſity fore-ſee delive<g ref="char:EOLhyphen"/>rance.</p>
+            </div>
+            <div n="59" type="chapter">
+               <head>CHAP. LIX.</head>
+               <p>IF thou contend with any, let thy contention be rather forced then voluntary, rather to defend thy ſelf, then to offend; and on thy part, ſee that the cauſe of contention be juſt, leſt the juſt God con<g ref="char:EOLhyphen"/>tend with thee; ſtrive not in a matter which concerns thee not, leſt the iſſue be thy ſhame, and juſt reproof; be ever cau<g ref="char:EOLhyphen"/>tious how thou ſtriveſt with a mighty man, leſt thou fall into his hands, and he cruſh thee. The Iron rod doth eaſi<g ref="char:EOLhyphen"/>ly
+<pb n="111" facs="tcp:59399:61"/>
+break in pieces the Earthen Pitcher. Be not at variance with a rich man, leſt he over<g ref="char:EOLhyphen"/>throw thee; for Gold hath deſtroyed many, and pervert<g ref="char:EOLhyphen"/>ed even the hearts of Kings. Strive not in words with him that is full of tongue, for there is no end of his babling. And ſtrive not with an haſty man, leſt he do thee a ſud<g ref="char:EOLhyphen"/>dain miſchief, which thou canſt not prevent, and he himſelf repent when it is too late. In ſhort, as much as in thee lyeth be at peace with all men, and the God of peace ſhall be at peace with thee.</p>
+            </div>
+            <div n="60" type="chapter">
+               <pb n="112" facs="tcp:59399:62"/>
+               <head>CHAP. LX.</head>
+               <p>LEt not thy Fancy be guid<g ref="char:EOLhyphen"/>ed by thine eye, nor let thy Will be governed by thy fancy; thine eye may be de<g ref="char:EOLhyphen"/>ceived in her object, and thy fancy may be deluded in her ſubject; let thy underſtand<g ref="char:EOLhyphen"/>ing moderate between thine eye and thy fancy, and let thy judgment arbitrate be<g ref="char:EOLhyphen"/>tween thy fancy, and thy will; ſo ſhall thy fancy apprehend what is true, ſo ſhall thy will elect what is good.</p>
+            </div>
+            <div n="61" type="chapter">
+               <head>CHAP. LXI.</head>
+               <p>IF thou deſire not to be too poor, deſire not to be too rich; he is rich, not that poſ<g ref="char:EOLhyphen"/>ſeſſeth
+<pb n="113" facs="tcp:59399:62"/>
+much, but he that co<g ref="char:EOLhyphen"/>vets no more; and he is poor, not that enjoys little, but he that wants too much; the con<g ref="char:EOLhyphen"/>tented mind wants nothing which it had not; the cove<g ref="char:EOLhyphen"/>tous mind wants not only what it hath not, but like<g ref="char:EOLhyphen"/>wiſe that which it hath; be not therefore too greedy in deſiring riches, nor too eager in ſeeking them, nor too co<g ref="char:EOLhyphen"/>vetous in keeping them, nor too paſſionate in looſing them; the firſt will poſſeſs thy Soul of diſcontent; the ſecond will diſpoſſeſs thy body of reſt; the third will poſſeſs thy wealth of thee; the laſt will diſpoſſeſs thee of thy ſelf: thou canſt not ſerve God, un<g ref="char:EOLhyphen"/>leſs
+<pb n="114" facs="tcp:59399:63"/>
+                  <hi>Mammon</hi> ſerve thee.</p>
+            </div>
+            <div n="62" type="chapter">
+               <head>CHAP. LXII.</head>
+               <p>IF evil men ſpeak good, or good men evil of thy con<g ref="char:EOLhyphen"/>verſation, examine all thy actions, and ſuſpect thy ſelf; but if evil men ſpeak evil of thee, hold it as thy honour; and by way of thankfulneſs love them, but upon condition, that they either ceaſe to be evil, or continue to hate thee; however a good conſcience without a good name, is bet<g ref="char:EOLhyphen"/>ter then a good name, without a good conſcience.</p>
+            </div>
+            <div n="63" type="chapter">
+               <head>CHAP. LXIII.</head>
+               <p>IN thy recited Meditations, when thou haſt neither fit
+<pb n="115" facs="tcp:59399:63"/>
+companion, nor good book, to imploy thy active fancy, admire the curious works of thy Creatour in his wonder<g ref="char:EOLhyphen"/>ful diſpoſe of all things; caſt thine eyes upon the Sun, that glorious Lamp of Heaven, whoſe near approach doth cloath the mournful Earth in her ſummer hue; conſider the conſtancy, the univerſal bene<g ref="char:EOLhyphen"/>fit of his light and heat, and admire his Maker; the leſſer Stars though they borrow their light, have their influence upon our Peace, and War, our health, and diſeaſes; the proud Ocean, whoſe reſtleſs waves threaten a Deluge to the neighbouring Coaſts, receives its checks from the ſmall, and
+<pb n="116" facs="tcp:59399:64"/>
+ſhutle ſand; and though it ſeem a bar to the paſſenger, yet by a ſhip is made the ſpee<g ref="char:EOLhyphen"/>dier paſſage; the bluſtering Winds, who think to controul the Marriner, by Art are made to ſerve his purpoſe.</p>
+               <q>
+                  <lg n="1">
+                     <head>1</head>
+                     <l>O Sacred Providence, who</l>
+                     <l>from end to end,</l>
+                     <l>Strongly and ſweetly moveſt!</l>
+                     <l>ſhall I write?</l>
+                     <l>And not of thee! through whom</l>
+                     <l>my fingers bend,</l>
+                     <l>To hold my quil, ſhall they not</l>
+                     <l>do thee right?</l>
+                  </lg>
+                  <lg n="2">
+                     <head>2.</head>
+                     <l>For either thy command, or</l>
+                     <l>thy permiſſion,</l>
+                     <l>Lay hands on all; thy are the</l>
+                     <l>right and left,</l>
+                     <l>
+                        <pb n="117" facs="tcp:59399:64"/>The firſt puts on with ſpeed, and expedition;</l>
+                     <l>The other curbs ſins ſtealing</l>
+                     <l>pace and theft.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>3.</head>
+                     <l>Nothing eſcapes them both;</l>
+                     <l>all muſt appear,</l>
+                     <l>And be diſpos'd, and dreſt, and</l>
+                     <l>tun'd by thee,</l>
+                     <l>Who ſweetly temper'ſt all; if</l>
+                     <l>we could hear,</l>
+                     <l>Thy skill and art, what muſick</l>
+                     <l>would it be!</l>
+                  </lg>
+                  <lg n="4">
+                     <head>4.</head>
+                     <l>Thou art in ſmall things</l>
+                     <l>great, not ſmall in any,</l>
+                     <l>Thy even praiſe, can neither</l>
+                     <l>riſe, nor fall:</l>
+                     <l>Thou art in all things one, in</l>
+                     <l>each thing many,</l>
+                     <l>For thou art infinite in One,</l>
+                     <l>and All.</l>
+                  </lg>
+                  <lg n="5">
+                     <pb n="118" facs="tcp:59399:65"/>
+                     <head>5.</head>
+                     <l>Thy Cupboard ſerves the</l>
+                     <l>World, the meat is ſet,</l>
+                     <l>Where all may reach, no beaſt</l>
+                     <l>but knows his feed,</l>
+                     <l>Birds teach us hawking, Fiſhes</l>
+                     <l>have their net,</l>
+                     <l>The great prey on the leſs, they</l>
+                     <l>on ſome weed.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>6.</head>
+                     <l>Nothing ingendred doth pre<g ref="char:EOLhyphen"/>vent</l>
+                     <l>his meat,</l>
+                     <l>Flies have their table ſpread ere</l>
+                     <l>they appear,</l>
+                     <l>Some Creatures have in winter</l>
+                     <l>what to eat,</l>
+                     <l>Others do ſleep, and envy not</l>
+                     <l>their cheer.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>7.</head>
+                     <l>Each Creature hath a wiſ<g ref="char:EOLhyphen"/>dom</l>
+                     <l>for his good,</l>
+                     <l>
+                        <pb n="119" facs="tcp:59399:65"/>The <hi>Pigeons</hi> feed their tender</l>
+                     <l>off ſpring crying,</l>
+                     <l>When they are callow; but with<g ref="char:EOLhyphen"/>draw</l>
+                     <l>their food,</l>
+                     <l>When they are fledge, that need</l>
+                     <l>may teach them flying.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>8.</head>
+                     <l>Bees work for man, and yet</l>
+                     <l>they never bruiſe</l>
+                     <l>Their Maſters flower; but leave</l>
+                     <l>it, having done,</l>
+                     <l>As fair as ever, and as fit for uſe:</l>
+                     <l>So both the flower doth ſtay, and</l>
+                     <l>honey run.</l>
+                  </lg>
+                  <lg n="9">
+                     <head>9.</head>
+                     <l>Sheep eat the graſs, and dung</l>
+                     <l>the ground for more,</l>
+                     <l>Trees after bearing, drop their</l>
+                     <l>leaves for ſoyl;</l>
+                     <l>
+                        <pb n="120" facs="tcp:59399:66"/>Springs vent their ſtreams, and</l>
+                     <l>by expence get more,</l>
+                     <l>Clouds cool by heat; Baths by</l>
+                     <l>cooling boyl.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>10.</head>
+                     <l>Thou haſt hid Metalls, man</l>
+                     <l>may take them thence,</l>
+                     <l>But at his peril: when he digs</l>
+                     <l>the place,</l>
+                     <l>He makes a grave, as if the thing</l>
+                     <l>had ſence,</l>
+                     <l>And threatned man, that he</l>
+                     <l>ſhould fill the ſpace.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>11.</head>
+                     <l>Even Poyſons praiſe thee;</l>
+                     <l>ſhould a thing be loſt,</l>
+                     <l>Should Creatures want, for want</l>
+                     <l>of heed, their due,</l>
+                     <l>Since where are Poyſons Anti<g ref="char:EOLhyphen"/>dotes</l>
+                     <l>are moſt.</l>
+                     <l>Thy help ſtands cloſe and keeps</l>
+                     <l>the fear in view.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>12.</head>
+                     <pb n="121" facs="tcp:59399:66"/>
+                     <l>And as thy houſe is full, ſo</l>
+                     <l>I adore</l>
+                     <l>Thy curious art, in marſhalling</l>
+                     <l>thy goods,</l>
+                     <l>The Hills with health abound,</l>
+                     <l>the valleys with ſtore,</l>
+                     <l>The South with Marble, the</l>
+                     <l>North with Furrs and Woods.</l>
+                  </lg>
+                  <lg n="13">
+                     <head>13.</head>
+                     <l>Hard things are glorious,</l>
+                     <l>eaſie things good cheap;</l>
+                     <l>The common all men have, that</l>
+                     <l>which is rare</l>
+                     <l>Men therefore ſeek to have, and</l>
+                     <l>care to keep:</l>
+                     <l>The healthy froſts with Summer</l>
+                     <l>Fruits compare.</l>
+                  </lg>
+                  <lg n="14">
+                     <head>14.</head>
+                     <l>Light without wind is glaſs;</l>
+                     <l>warm without weight</l>
+                     <l>
+                        <pb n="122" facs="tcp:59399:67"/>Is Wool and Furrs; coole with<g ref="char:EOLhyphen"/>out</l>
+                     <l>cloſeneſs ſhade;</l>
+                     <l>Speed without pains a Horſe;</l>
+                     <l>tall without height</l>
+                     <l>A ſervile Hawk; low without</l>
+                     <l>loſs a Spade.</l>
+                  </lg>
+                  <lg>
+                     <l>All Countries have enough to</l>
+                     <l>ſerve their need;</l>
+                     <l>If they ſeek fine things, thou</l>
+                     <l>doſt make them run</l>
+                     <l>For their offence; and then</l>
+                     <l>doſt turn their ſpeed</l>
+                     <l>To be Commerce, and trade from</l>
+                     <l>Sun to Sun.</l>
+                  </lg>
+                  <lg n="16">
+                     <head>16.</head>
+                     <l>Nothing wears cloaths but</l>
+                     <l>Man, nothing doth need</l>
+                     <l>But man to wear them; nothing</l>
+                     <l>uſeth Fire,</l>
+                     <l>But man alone, to ſhew his Hea<g ref="char:EOLhyphen"/>venly breed;</l>
+                     <l>
+                        <pb n="123" facs="tcp:59399:67"/>And only he hath fewel in de<g ref="char:EOLhyphen"/>ſire.</l>
+                  </lg>
+                  <lg n="17">
+                     <head>17.</head>
+                     <l>When the Earth was dry,</l>
+                     <l>thou madſt a Sea of wet,</l>
+                     <l>When that lay gathered; thou</l>
+                     <l>didſt broach the Mountains,</l>
+                     <l>When yet ſome places could no</l>
+                     <l>moyſture get;</l>
+                     <l>The Winds grew Gardners, and</l>
+                     <l>the Clouds good Fountains.</l>
+                  </lg>
+                  <lg n="18">
+                     <head>18.</head>
+                     <l>Rain, do not hurt my flowrs,</l>
+                     <l>But gently ſpend</l>
+                     <l>Your hony drops; preſs not to</l>
+                     <l>ſmell them here,</l>
+                     <l>When they are ripe, their odour</l>
+                     <l>will aſcend,</l>
+                     <l>And at your lodging with their</l>
+                     <l>thanks appear.</l>
+                  </lg>
+                  <lg n="19">
+                     <head>19.</head>
+                     <pb n="124" facs="tcp:59399:68"/>
+                     <l>How harſh are thornes to</l>
+                     <l>pears! and yet they make</l>
+                     <l>A better hedge, and need leſs reparation:</l>
+                     <l>How ſmooth are ſilks, compared</l>
+                     <l>with a ſtake,</l>
+                     <l>Or with a ſtone, yet make no</l>
+                     <l>good Foundation.</l>
+                  </lg>
+                  <lg n="20">
+                     <head>20.</head>
+                     <l>Sometimes thou dost divide</l>
+                     <l>thy gifts to man,</l>
+                     <l>Sometimes unite; the <hi>Indian</hi>
+                     </l>
+                     <l>Nut alone</l>
+                     <l>Is Cloathing, Meat, and Tren<g ref="char:EOLhyphen"/>cher,</l>
+                     <l>Drink, and Can,</l>
+                     <l>Boat, Cable, Sayl, and Needle,</l>
+                     <l>all in One.</l>
+                  </lg>
+                  <lg n="21">
+                     <head>21.</head>
+                     <l>Moſt Herbs that grow in</l>
+                     <l>Brooks are hot and dry;</l>
+                     <l>
+                        <pb n="125" facs="tcp:59399:68"/>Cold fruits warm kernels, help</l>
+                     <l>againſt the wind.</l>
+                     <l>The Lemon juice and rind cure mutually;</l>
+                     <l>The Whey of Milk doth looſe,</l>
+                     <l>the Milk doth bind.</l>
+                  </lg>
+                  <lg n="22">
+                     <head>22.</head>
+                     <l>Thy Creatures leap not, yet</l>
+                     <l>expreſs a feaſt,</l>
+                     <l>Where all the gueſts ſit cloſe</l>
+                     <l>and nothing wants,</l>
+                     <l>Frogs marry Fiſh and fleſh,</l>
+                     <l>Bats Bird and Beaſt;</l>
+                     <l>Sponges non ſenſe and ſenſe;</l>
+                     <l>Mines Earth and Plants.</l>
+                  </lg>
+                  <lg n="23">
+                     <head>23.</head>
+                     <l>To ſhew thou art not bound,</l>
+                     <l>as if thy lot</l>
+                     <l>Were worſe then ours, ſometimes</l>
+                     <l>thou ſhifteſt hands,</l>
+                     <l>
+                        <pb n="126" facs="tcp:59399:69"/>Moſt things move the under</l>
+                     <l>jaw, the Crocodile not;</l>
+                     <l>Moſt things ſleep lying, the Ele<g ref="char:EOLhyphen"/>phant</l>
+                     <l>leans or ſtands.</l>
+                  </lg>
+                  <lg n="24">
+                     <head>24.</head>
+                     <l>But who hath praiſe enough,</l>
+                     <l>nay who hath any,</l>
+                     <l>None can expreſs thy works,</l>
+                     <l>but he that knows them;</l>
+                     <l>And none can know thy works</l>
+                     <l>which are ſo many,</l>
+                     <l>And ſo compleat, but only he</l>
+                     <l>that owes them.</l>
+                  </lg>
+               </q>
+               <p>But if the contemplation of theſe Creatures excellencies ſeem too low; let thy divine fancy carry thee to the top of Mount <hi>Nebo;</hi> and thence take a proſpect of the Land of pro<g ref="char:EOLhyphen"/>miſe:
+<pb n="127" facs="tcp:59399:69"/>
+view thoſe Manſions of Glory purchaſed for thee with the precious Blood of God; hear the heavenly Chore of glorified Saints and Angels, ſinging <hi>Hallelujah</hi> to him that ſitteth upon the throne, and to the Lamb for ever. Conſi<g ref="char:EOLhyphen"/>der how the Angels, thoſe glorious Spirits, ready and mighty Meſſengers, whoſe number is innumerable, are ſent to encamp about the ſer<g ref="char:EOLhyphen"/>vants of the moſt High, for their protection and ſafety; let thy Soul bath it ſelf in thoſe rivers of pleaſure, which flow from the refreſhing preſence of thy al-ſufficient God, and Saviour; believe that heart-raviſhing complacency which
+<pb n="128" facs="tcp:59399:70"/>
+the Holy One of <hi>Iſrael</hi> taketh in his Spouſe the Church, and in every part and member thereof; unto whom he hath confirmed his love for ever, by the death of his dear Son, by the everlaſting Covenant of his Grace, and by his ma<g ref="char:EOLhyphen"/>ny faithful Promiſes of what<g ref="char:EOLhyphen"/>ſoever may conduce to her felicity here, or hereafter. Theſe Meditations will ſtay thy buſie mind that it run not out to vain Companions, or unprofitable exerciſe, for its ſa<g ref="char:EOLhyphen"/>tisfaction; and will fill thy Soul brim-full of Heavenly Joy.</p>
+            </div>
+            <div n="64" type="chapter">
+               <pb n="129" facs="tcp:59399:70"/>
+               <head>CHAP. LXIV.</head>
+               <p>LEt not thy expence exceed thy income, leſt thou run in debt; and ſpend not too much on hopes, leſt thou be diſappointed of thy hope, and never recover thy expence. As 'tis miſerable to live upon the bounty or benevolence of another, ſo 'tis the higheſt aggravation of this miſery to live a ſervant, in continual fear of an exacting Creditor; better it is that thou continue in that Eſtate wherein God hath ſet thee, though but mean, then for a time to live above it, and after to be brought low. He that falls from on high is in great danger, and ſhall re<g ref="char:EOLhyphen"/>ceive
+<pb n="130" facs="tcp:59399:71"/>
+more damage then he that keeps low. Remember if God hath given thee Chil<g ref="char:EOLhyphen"/>dren, or other near Relations, they claim a ſhare in what thou haſt; and before thou departeſt hence, fairly part with all; it being the proper<g ref="char:EOLhyphen"/>ty of every good man, not to deceive, or diſappoint any, even in Death; if thy eſtate mend, thou mayſt live up to it, but not above it.</p>
+            </div>
+            <div n="65" type="chapter">
+               <head>CHAP. LXV.</head>
+               <p>LEt the greateſt part of the news thou heareſt, be the leaſt part of what thou believeſt, leſt the greateſt part of what thou believeſt, be the leſt part of what is true; and
+<pb n="131" facs="tcp:59399:71"/>
+report nothing for truth in earneſt or in jeſt, unleſs thou know it, or at leaſt confidently believe it to be ſo: neither is it expedient at all times, or in all Companies, to report what thou knoweſt, or knoweſt to be true; ſometimes it may avail thee, if thou ſeem not to know, that which thou knoweſt. Haſt thou any ſecret, Commit it not to many, nor to any, un<g ref="char:EOLhyphen"/>leſs well known unto thee.</p>
+            </div>
+            <div n="66" type="chapter">
+               <head>CHAP. LXVI.</head>
+               <p>HAſt thou a Friend, uſe him friendly, and abuſe him not in jeſt, or earneſt, conceal his infirmities, privately re<g ref="char:EOLhyphen"/>prove his Errours; Commit thy ſecrets to him, yet with
+<pb n="132" facs="tcp:59399:72"/>
+caution, leſt thy friend become thy enemy and abuſe thee.</p>
+            </div>
+            <div n="67" type="chapter">
+               <head>CHAP. LXVII.</head>
+               <p>IF any thing befal thee which thou haſt neither prudence to foreſee, nor power to pre<g ref="char:EOLhyphen"/>vent, nor means to alter, blame not him that ſent it, but bear it patiently; for look abroad into the World, and thou ſhalt fee ſome perſons, who neither want diſcretion to contrive, nor means to effect their deſignes, yet fail in their ſucceſs; others who have neither that power nor wiſdom, yet proſper in what they take in hand: ſome impute this ſucceſs to the in<g ref="char:EOLhyphen"/>fluence of the Starrs Predo<g ref="char:EOLhyphen"/>minant in their Nativity;
+<pb n="133" facs="tcp:59399:72"/>
+others to blind fortune; but 'tis ſafe for thee to acknowledge him, who is the cauſe of cau<g ref="char:EOLhyphen"/>ſes, who oftentimes doth give ſucceſs to the impious and im<g ref="char:EOLhyphen"/>provident, diſappointing the wiſe and prudent, that he him<g ref="char:EOLhyphen"/>ſelf may be acknowledged to be All in All, and that vain man may have nothing after him; yet the wicked ſhall not alwayes proſper, but the pious and prudent ſhall at length prevail.</p>
+            </div>
+            <div n="68" type="chapter">
+               <head>CHAP. LXVIII.</head>
+               <p>NEither deſpiſe, nor over-much value any ſmall thing; deſpiſe it not, for thou knoweſt not whither it may grow; even thoſe things, whoſe
+<pb n="134" facs="tcp:59399:73"/>
+beginnings have been low, have grown great; and thou knoweſt not of what uſe or diſuſe it may be unto thee. The <hi>Lyon</hi> having caught a <hi>Mouſe,</hi> upon intreaty, let her go; not long after, this <hi>Mouſe</hi> hearing the <hi>Lyon</hi> roar, ſought him out, and found him taken in a Net, creeps to the Net, and bites the cords aſunder, and ſo in requital gives the <hi>Lyon</hi> an eſcape. Thou knoweſt not how far a ſmall matter may hurt or help thee; yet re<g ref="char:EOLhyphen"/>gard it not over-much, leſt thy mind be over-filled with fear and care: if thou haſt an enemy whoſe power is ſmall, fear him, and have alwayes a watchful eye upon him, leſt thy want of
+<pb n="135" facs="tcp:59399:73"/>
+fear make thee ſecure, and thy ſecurity give him ſtrength, and this ſtrength enable him to overcome thee.</p>
+            </div>
+            <div n="69" type="chapter">
+               <head>CHAP. LXIX.</head>
+               <p>OF all the paſſions of thy mind beware of Love, then which, none is more un<g ref="char:EOLhyphen"/>ruly, eſpecially, when the Ob<g ref="char:EOLhyphen"/>ject is unſuitable, or difficult to be obtained; it will fill thy mind with fear, anxiety, care, and jealouſie.</p>
+               <q>
+                  <pb n="136" facs="tcp:59399:74"/>
+                  <l>IN Love theſe vices are, ſuſpi<g ref="char:EOLhyphen"/>ons,</l>
+                  <l>Peace, War, and Impudence, De<g ref="char:EOLhyphen"/>tractions;</l>
+                  <l>Dreams, Cares, and Errours, Terrours, and Affrights,</l>
+                  <l>Immodeſt pranks, devices, flights, and ſlights,</l>
+                  <l>Heart-burnings, wants, neglects, deſire of wrong;</l>
+                  <l>Loſs, continual expence, and hurt among.</l>
+               </q>
+               <p>Yet if the object of thy af<g ref="char:EOLhyphen"/>fection be truly deſireable, and facile, thou mayeſt love, yet ſo, that friends be thy Coun<g ref="char:EOLhyphen"/>ſellours, and reaſon thy con<g ref="char:EOLhyphen"/>duct, ſo ſhalt thou ſeldome
+<pb n="137" facs="tcp:59399:74"/>
+miſcarry; <hi>Sed vix deo conce<g ref="char:EOLhyphen"/>ditur &amp; amare &amp; ſapere;</hi> It is ſcarce allowed to the Gods, to be in love, and to be wiſe.</p>
+            </div>
+            <div n="70" type="chapter">
+               <head>CHAP. LXX.</head>
+               <p>ABove all things ſhun <hi>Me<g ref="char:EOLhyphen"/>lancholy,</hi> as that which will both impare thy health, delude thy fancy, and diſcom<g ref="char:EOLhyphen"/>poſe thy mind. The <hi>Melancho<g ref="char:EOLhyphen"/>ly</hi> perſon is apt to think that to be which is not, and things to be as they are not, excel<g ref="char:EOLhyphen"/>lently deſcribed by <hi>Democritus Junior.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="poem">
+                           <head>
+                              <hi>Burton's</hi> Melancholy.</head>
+                           <lg>
+                              <l>WHen I go muſing all alone,</l>
+                              <l>
+                                 <pb n="138" facs="tcp:59399:75"/>Thinking of divers things fore-known,</l>
+                              <l>When I build Caſtles in the Air,</l>
+                              <l>Void of ſorrow, and void of fear,</l>
+                              <l>Pleaſing my ſelf with phantaſms ſweet,</l>
+                              <l>Methinks the time runs very fleet:</l>
+                              <l>
+                                 <hi>All my joys to this are folly;</hi>
+                              </l>
+                              <l>
+                                 <hi>Naught ſo ſweet as</hi> Melan<g ref="char:EOLhyphen"/>choly.</l>
+                           </lg>
+                           <lg>
+                              <l>When I lye muſing all alone,</l>
+                              <l>Recounting what I have ill done,</l>
+                              <l>My thoughts on me then Tyran<g ref="char:EOLhyphen"/>nize,</l>
+                              <l>Fear and ſorrow me ſurprize;</l>
+                              <l>Whether I tarry ſtill, or go,</l>
+                              <l>
+                                 <pb n="139" facs="tcp:59399:75"/>Methinks the time moves very ſlow:</l>
+                              <l>
+                                 <hi>All my griefs to this are Jol<g ref="char:EOLhyphen"/>ly,</hi>
+                              </l>
+                              <l>
+                                 <hi>Naught ſo ſad as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <l>When to my ſelf I act, and ſmile,</l>
+                              <l>With pleaſing thoughts the time beguile,</l>
+                              <l>By a Brook ſide, or wood ſo green,</l>
+                              <l>
+                                 <g ref="char:V">Ʋ</g>nheard, unſought for, or un<g ref="char:EOLhyphen"/>ſeen;</l>
+                              <l>A thouſand pleaſures do me bleſs,</l>
+                              <l>And Crown my Soul with hap<g ref="char:EOLhyphen"/>pineſs:</l>
+                              <l>
+                                 <hi>All my joys beſides are folly,</hi>
+                              </l>
+                              <l>
+                                 <hi>None ſo ſweet as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <pb n="140" facs="tcp:59399:76"/>
+                              <l>When I lye, ſit, or walk a<g ref="char:EOLhyphen"/>lone,</l>
+                              <l>I ſigh, I grieve, making great moan;</l>
+                              <l>In a dark Grove, or irksome den,</l>
+                              <l>With diſcontents, and furies then;</l>
+                              <l>A thouſand miſeries at once,</l>
+                              <l>My heavy Heart and Soul en<g ref="char:EOLhyphen"/>ſconce:</l>
+                              <l>
+                                 <hi>All my griefs to this are fol<g ref="char:EOLhyphen"/>ly,</hi>
+                              </l>
+                              <l>
+                                 <hi>None ſo ſoure as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <l>Methinks I hear, methinks I ſee,</l>
+                              <l>Sweet muſick, wondrous melo<g ref="char:EOLhyphen"/>dy;</l>
+                              <l>
+                                 <pb n="141" facs="tcp:59399:76"/>Cities, towns, and places fine,</l>
+                              <l>Now here, then there, the World</l>
+                              <l>is mine;</l>
+                              <l>Rare beauties, gallant Ladies ſhine,</l>
+                              <l>What ere is lovely or divine:</l>
+                              <l>
+                                 <hi>All other joyes to this are folly,</hi>
+                              </l>
+                              <l>
+                                 <hi>None ſo ſweet as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <l>Methinks I hear, methinks I ſee,</l>
+                              <l>Ghoſts, Goblins, Fiends, my fantaſie</l>
+                              <l>Preſents a thouſand ugly ſhapes,</l>
+                              <l>Headleſs Bears, black-Men and Apes,</l>
+                              <l>Doleful out cryes, and fearful ſights,</l>
+                              <l>
+                                 <pb n="142" facs="tcp:59399:77"/>My ſad and diſmal Soul af<g ref="char:EOLhyphen"/>frights;</l>
+                              <l>
+                                 <hi>All my griefs to this are Jolly,</hi>
+                              </l>
+                              <l>
+                                 <hi>None ſo damn'd as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <l>Methinks I court, methinks I kiſs,</l>
+                              <l>Methinks I now embrace my Miſtris.</l>
+                              <l>O bleſsed dayes! O ſweet con<g ref="char:EOLhyphen"/>tent!</l>
+                              <l>In Paradiſe my time is ſpent:</l>
+                              <l>Such thoughts may ſtill my fan<g ref="char:EOLhyphen"/>cy move,</l>
+                              <l>So may I ever be in love:</l>
+                              <l>
+                                 <hi>All my Joyes to this are fol<g ref="char:EOLhyphen"/>ly,</hi>
+                              </l>
+                              <l>
+                                 <hi>Naught ſo ſweet as</hi> Melan<g ref="char:EOLhyphen"/>choly.</l>
+                           </lg>
+                           <lg>
+                              <pb n="143" facs="tcp:59399:77"/>
+                              <l>When I recount loves many frights,</l>
+                              <l>My ſighs, and tears, my wakeing nights,</l>
+                              <l>My jealous fits, O my hard fate!</l>
+                              <l>I now repent, but 'tis too late,</l>
+                              <l>No torment is ſo bad as Love,</l>
+                              <l>So bitter to my Soul can prove:</l>
+                              <l>
+                                 <hi>All my griefs to this are Jol<g ref="char:EOLhyphen"/>ly,</hi>
+                              </l>
+                              <l>
+                                 <hi>None ſo harſh as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <l>Friends and Companions get you gone,</l>
+                              <l>'Tis my deſire to be alone,</l>
+                              <l>Nere well but when my thoughts and I,</l>
+                              <l>Do domineer in privacy;</l>
+                              <l>No gemm, no treaſure like to this,</l>
+                              <l>
+                                 <pb n="144" facs="tcp:59399:78"/>'Tis my delight, my crown, my bliſs,</l>
+                              <l>
+                                 <hi>All my joys to this are fol<g ref="char:EOLhyphen"/>ly,</hi>
+                              </l>
+                              <l>
+                                 <hi>None ſo ſweet as</hi> Melancho<g ref="char:EOLhyphen"/>ly.</l>
+                           </lg>
+                           <lg>
+                              <l>'Tis my ſole plague to be alone,</l>
+                              <l>I am a Beaſt, a Monſter grown:</l>
+                              <l>I will no light, no company,</l>
+                              <l>
+                                 <hi>I</hi> find it now my miſery;</l>
+                              <l>The Scene is turn'd, my joys are gone,</l>
+                              <l>Fear, diſcontent, and ſorrows come;</l>
+                              <l>
+                                 <hi>All my griefs to this are jolly,</hi>
+                              </l>
+                              <l>
+                                 <hi>Naught ſo fierce as</hi> Melan<g ref="char:EOLhyphen"/>choly.</l>
+                           </lg>
+                           <lg>
+                              <l>I'le not change life with any King,</l>
+                              <l>
+                                 <pb n="145" facs="tcp:59399:78"/>I raviſht am; can the world bring</l>
+                              <l>More joy, then ſtill to laugh and ſmile,</l>
+                              <l>In pleaſant toys time to beguile</l>
+                              <l>Do not, O do not trouble me,</l>
+                              <l>So ſweet content I feel, and ſee;</l>
+                              <l>
+                                 <hi>All my joyes to this are folly,</hi>
+                              </l>
+                              <l>
+                                 <hi>Naught ſo Divine as</hi> Melan<g ref="char:EOLhyphen"/>choly.</l>
+                           </lg>
+                           <lg>
+                              <l>I'le change my ſtate with any wretch</l>
+                              <l>Thou canſt from Goal or dung<g ref="char:EOLhyphen"/>hil fetch,</l>
+                              <l>My pains, paſt cure, an other Hell</l>
+                              <l>I may not in this torment dwell;</l>
+                              <l>Now deſperate I hate my life,</l>
+                              <l>Lend me an halter or a knife:</l>
+                              <l>
+                                 <hi>All my griefs to this are jolly,</hi>
+                              </l>
+                              <l>
+                                 <hi>Naught ſo damn'd as</hi> Melan<g ref="char:EOLhyphen"/>choly.</l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <pb n="146" facs="tcp:59399:79"/>'Tis hard to be cheerful without levity, or ſerious with<g ref="char:EOLhyphen"/>out <hi>Melancholy;</hi> we verge to extreams; inconveniencies and ſnares attend all conſtitutions and complexions, (and like Sylogiſmes <hi>Sequimur deterio<g ref="char:EOLhyphen"/>rem partem</hi>) Cheerfulneſs is moſt like to do the body good, and the Soul hurt: that there<g ref="char:EOLhyphen"/>fore ſoul and body may re<g ref="char:EOLhyphen"/>ceive good, and no hurt, be cheerfully ſerious, and ſeri<g ref="char:EOLhyphen"/>ouſly cheerful; while cheer<g ref="char:EOLhyphen"/>fulneſs is the ſayl, let ſeriouſ<g ref="char:EOLhyphen"/>neſs be the ballaſt of the Veſſel; if thou want ballaſt, thou wilt move too ſwiftly; if thou want ſayles, thou wilt move too ſlowly.</p>
+            </div>
+            <div n="71" type="chapter">
+               <pb n="147" facs="tcp:59399:79"/>
+               <head>CHAP. LXXI.</head>
+               <p>IF through the variety of Objects, and the diverſity of occaſions, thou canſt not take an exact account of thy temper, and inclination, when thou art awake, conſult thy dreams, which though ſuper<g ref="char:EOLhyphen"/>ſtitiouſly abuſed by ſome, yet have their ſignification; for God revealeth ſecrets in thoughts from viſions of the Night, when deep ſleep fal<g ref="char:EOLhyphen"/>leth upon men. If thou fre<g ref="char:EOLhyphen"/>quently ſpend thy ſleep in dalliance, with ſtolen ſalutes, and ſweet embraces, thy con<g ref="char:EOLhyphen"/>ſtitution is Sanguine, and thou
+<pb n="148" facs="tcp:59399:80"/>
+haſt cauſe to ſuſpect thy ſelf of wantonneſs; if in chiding, quarrelling, and finding fault, thy diſpoſition is contentious; if thy dreams be revengeful, remembring and requiting old antiquated injuries, they point out thy malice; if they run upon Gold and Silver, con<g ref="char:EOLhyphen"/>tracts, and projects, for the gaining and encreaſing of an eſtate, they argue thy cove<g ref="char:EOLhyphen"/>touſneſs: ſome by dreams have underſtood the death of Friends at a great diſtance; yea the very month and day of their own death; thy ge<g ref="char:EOLhyphen"/>nius, if hearkned to, will ſhew thee ſtrange things when thou <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aſleep, things to come, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> which concern thee,
+<pb n="149" facs="tcp:59399:80"/>
+though in agitation at a great diſtance; yet in this be cauti<g ref="char:EOLhyphen"/>ous, though it be the certain experience of many.</p>
+            </div>
+            <div n="72" type="chapter">
+               <head>CHAP. LXXII.</head>
+               <p>IF thou be deficient in eſtate and thy ſtrength be but ſmall, let thy diſcretion ſup<g ref="char:EOLhyphen"/>ply this defect; gather honey with the Bee from every flow<g ref="char:EOLhyphen"/>er, not regarding the colour of the flower, nor the ſoyle wherein it grows; yet with this caution, that thou leave it as fair and ſweet as before. Pru<g ref="char:EOLhyphen"/>dence is oftentimes of force where force prevaileth not; if thou canſt not have a
+<pb n="150" facs="tcp:59399:81"/>
+ſtraight wind to carry thee to thy deſired haven, make thy beſt uſe of a ſide wind; yea rather ſtrike Sayle, then periſh in the ſtorm: what thou canſt not effect by thy ſelf, poſſibly thou mayſt bring to paſs by another, or by another way; that Fort which cannot be ta<g ref="char:EOLhyphen"/>ken by ſtorm, may by a long ſiege or ſupprize be forced to yild. The Dolphin finding him<g ref="char:EOLhyphen"/>ſelf unable to hurt the Croco<g ref="char:EOLhyphen"/>dile, by reaſon of the hard Scales upon his back, which no weapon can pierce, diveth under him, and with his ſharp Fins ſtriketh him into the bel<g ref="char:EOLhyphen"/>ly, being ſoft and tender, and ſo killeth him: attempt what thou canſt, and leave
+<pb n="151" facs="tcp:59399:81"/>
+things impoſſible unattem<g ref="char:EOLhyphen"/>pted.</p>
+            </div>
+            <div n="73" type="chapter">
+               <head>CHAP. LXXIII.</head>
+               <p>IN all thy ways keep in Gods way, and God will keep thee in all thy wayes. If a man travelling in the Kings high way be robbed between Sun and Sun, ſatisfaction is recove<g ref="char:EOLhyphen"/>rable upon the Countrey, where the robbery was committed; but if he take his journey in the night, it being an unſeaſo<g ref="char:EOLhyphen"/>nable time, then it is at his own peril, he muſt take what falls. If thou keep in Gods way, thou ſhalt be ſure either of Gods protection from dan<g ref="char:EOLhyphen"/>ger, or of ſatisfaction for
+<pb n="152" facs="tcp:59399:82"/>
+thy damage; but if thou ſtray out, thou doſt expoſe thy ſelf to danger.</p>
+            </div>
+            <div n="74" type="chapter">
+               <head>CHAP. LXXIV.</head>
+               <p>BE neither too ambitious of, nor too confident in the favour of great men, for there<g ref="char:EOLhyphen"/>by thou wilt create many in<g ref="char:EOLhyphen"/>conveniences to thy ſelf (yet diſoblige none) Sometimes their favour is bought at ſo dear a rate, that 'tis not worth the having; frequently 'tis but of ſhort continuance, and when his favour is gone, thou art expoſed more the object of his diſpleaſure then before; or perhaps this great one com<g ref="char:EOLhyphen"/>ing
+<pb n="153" facs="tcp:59399:82"/>
+into disfavour with thoſe who are greater then he, thou art brought down with him; whereas thou mighteſt have ſtood longer, hadſt thou ſtood upon thy own leggs. A paſſen<g ref="char:EOLhyphen"/>ger in a Storm, for ſhelter, be<g ref="char:EOLhyphen"/>takes himſelf to the Covert of a fair ſpreading Oake, where for a time he findeth relief, till at length, he receiveth more damage by the dropping of the boughs, then if he had been expoſed to the weather; or a ſuddain guſt of wind happen<g ref="char:EOLhyphen"/>ing, teareth down a main Arme of the Oake, which falling up<g ref="char:EOLhyphen"/>on the poor paſſenger, maim<g ref="char:EOLhyphen"/>eth or miſchieveth him that fled to it for ſhelter.</p>
+            </div>
+            <div n="75" type="chapter">
+               <pb n="154" facs="tcp:59399:83"/>
+               <head>CHAP. LXXV.</head>
+               <p>MAke Gods glory the ulti<g ref="char:EOLhyphen"/>mate end of all thy acti<g ref="char:EOLhyphen"/>ons; and God ſhall give thee his everlaſting glory when all thy actions have an end. A friend gives me a Ring, i'le wear it for his ſake; A Book, i'le uſe it for his ſake; A Jew<g ref="char:EOLhyphen"/>el, i'le keep it for his ſake, that is, ſo as may beſt expreſs my love, and report his goodneſs. were we truly thankful to our God, we would then uſe all his tokens for his ſake, and do all things to his glory: we would eat our meat to him, wear our cloathes to him,
+<pb n="155" facs="tcp:59399:83"/>
+ſpend our ſtrength for him, live to him, and die for him: however ſee thou uſe not his bleſſings as <hi>Jehu</hi> did <hi>Jeho<g ref="char:EOLhyphen"/>rams</hi> Meſſengers, or <hi>David Go<g ref="char:EOLhyphen"/>liahs</hi> Sword, to turn them againſt their Maſter; and fight againſt Heaven, with that health, wit, wealth, friends, means and mercies, that thou haſt from thence received.</p>
+            </div>
+            <div n="86" type="chapter">
+               <head>CHAP. LXXXVI.</head>
+               <p>SEE thou practiſe, what thou knoweſt of the will of God, and that God who hath given thee an heart to do according to what thou knoweſt, will give thee an un<g ref="char:EOLhyphen"/>derſtanding
+<pb n="156" facs="tcp:59399:84"/>
+to know what thou ſhouldeſt do; but ever let thy inquiry be after thoſe truths which God hath re<g ref="char:EOLhyphen"/>vealed, and not after curioſi<g ref="char:EOLhyphen"/>ties. Where God hath ſet a boundary (as to the mount of old) ſeek not thou to paſs, leſt it be to thy ruine: Curioſitie in this kind hath been the Mo<g ref="char:EOLhyphen"/>ther of many hereſies; when men hath been buſily witty, rather to pry into, then believe the profound Myſteries of God. Think not to dive into the My<g ref="char:EOLhyphen"/>ſtery of Chriſts Incarnation, till thou underſtand thy own Regeneration: be not like thoſe who buſie themſelves to know, where <hi>Lazarus</hi> his Soul was, when his body lay three
+<pb n="157" facs="tcp:59399:84"/>
+dayes in the Grave, and in the mean time care not what be<g ref="char:EOLhyphen"/>comes of their own Souls; rather bewail, then imitate the many intruſions upon God and the things of God that have been of late. As there needs a ſpurr unto good and ſaving knowledge; ſo abri<g ref="char:EOLhyphen"/>dle unto that knowledge which is curious and pre<g ref="char:EOLhyphen"/>ſumptuous. Bleſſed is that knowledge which maketh wiſe to ſobriety.</p>
+            </div>
+            <div n="77" type="chapter">
+               <head>CHAP. LXXVII.</head>
+               <p>SIn not againſt thy conſci<g ref="char:EOLhyphen"/>ence, leſt that which ſhould be thy chief comforter, prove
+<pb n="158" facs="tcp:59399:85"/>
+thy tormenter; and if thy con<g ref="char:EOLhyphen"/>ſcience condemn thee, God who is greater then thy con<g ref="char:EOLhyphen"/>ſcience, ſhall much more con<g ref="char:EOLhyphen"/>demn thee; be aſſured, there is no action, though never ſo ſe<g ref="char:EOLhyphen"/>cret, though never ſo ſmall, that can eſcape the pen of this ready Scribe; but all thou doſt ſhall be recorded, and that ſo clear and evident, that go where thou wilt, and do what thou canſt, the chara<g ref="char:EOLhyphen"/>cters thereof ſhall never be cancell'd or raced out, till God appear in Judgment. And as there is no greater peace on this ſide Heaven, then the peace of Conſcience; ſo there is no greater torment on this ſide Hell then a wounded Conſci<g ref="char:EOLhyphen"/>ence.
+<pb n="159" facs="tcp:59399:85"/>
+Though the World ſhould rattle about thine ears, and the waves of affliction beat never ſo hard upon thee, yet thou may'ſt ſit merry at the feaſt of a good Conſcience, as ſecure as that child which in a Ship-wrack was with his Mo<g ref="char:EOLhyphen"/>ther upon a planck ſecurely ſleeping, whom when ſhe awa<g ref="char:EOLhyphen"/>ked, with his pretty counte<g ref="char:EOLhyphen"/>nance ſweetly ſmiling, asked a ſtroake to beat the naughty waves, as if they had been his play-fellows; Oh that ſweet harmonious melody, when this Bird in the boſome ſings clear! Oh the Peace and Comfort of innocency, the tranquility of a ſpotleſs mind! Oh the ſerenity! No <hi>Spaniſh</hi> skie ſo
+<pb n="160" facs="tcp:59399:86"/>
+clear as a good Conſcience. On the contrary <hi>Philo Judaeus</hi> re<g ref="char:EOLhyphen"/>porteth, that <hi>Flaccus</hi> play'd all the parts of cruelty that he could invent againſt the <hi>Jews,</hi> for their Religion; but when the doom of <hi>Calligula</hi> fell up<g ref="char:EOLhyphen"/>on him, and he was baniſhed to <hi>Andros,</hi> an Iſland near <hi>Greece,</hi> he was ſo tormented with the memory of his bloo<g ref="char:EOLhyphen"/>dy, iniquity, and the fear of ſuffering for it, that if he ſaw any man walking ſoftly near unto him, he would ſay to himſelf, this man deviſeth to work my deſtruction; if he ſaw any go haſtily, ſurely this is not for nothing, he maketh ſpeed to kill me; if any man ſpake him fair, he ſuſpected
+<pb n="161" facs="tcp:59399:86"/>
+that he would cozen him, and ſought to entrap him; if any talked roughly to him, then he thought that he contemned him; if meat were given him in ample manner, this is but to fat me as an Ox for the ſlaugh<g ref="char:EOLhyphen"/>ter: thus his Conſcience, that he had ſo often abuſed, did ever mind him, that ſome ven<g ref="char:EOLhyphen"/>geance was to follow either from God or Man, or both. If thou ſin often againſt thy Conſcience, at length it will remember thee, (and all the conſorts of Muſick in the World cannot ſtop its cry) that nothing but deſtruction wait<g ref="char:EOLhyphen"/>eth on thee; if thou walk abroad, <hi>Sonus excitat omnis ſuſpenſum,</hi> thou wilt be afraid
+<pb n="162" facs="tcp:59399:87"/>
+of every leaf that ſhakes; if thou ſtay at home nothing but horrour attends thee; in the day thou art ſtruck with vari<g ref="char:EOLhyphen"/>ety of ſad apprehenſions, in the night thou art troubled with fearful dreams, and ſtrange apparitions: Such is the Hell of a guilty Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            </div>
+            <div n="78" type="chapter">
+               <head>CHAP. LXXVIII.</head>
+               <p>BE neither too much affect<g ref="char:EOLhyphen"/>ed with the vaine applauſe of the multitude, nor too con<g ref="char:EOLhyphen"/>fident in their uncertain opini<g ref="char:EOLhyphen"/>on; for whom to day they cry up, they will cry down to mor<g ref="char:EOLhyphen"/>row. None ever more careful
+<pb n="163" facs="tcp:59399:87"/>
+in Gods houſe then <hi>Moſes,</hi> none deeper in his favour, none more graced with Miracles, none more careful of the peo<g ref="char:EOLhyphen"/>ples good, or more honoured by them, yet if they be once diſtreſſed and ſtraightned in their proviſions, they will ſtone <hi>Moſes</hi> to death, and ſet up a new Governour. How did the people at firſt entertain <hi>Paul?</hi> even as an Angel of Light, and were ready to pull out their eyes for him: not long after, hearkning to Seducers, <hi>St. Paul</hi> was accounted their enemy, and they ready to pull out his eyes, and give them to their falſe Apoſtles: Our Saviour Chriſt ſhall have <hi>Ho<g ref="char:EOLhyphen"/>ſannah</hi> to day, and the next
+<pb n="164" facs="tcp:59399:88"/>
+day they cry out <hi>Crucifie</hi> him. Nothing more unconſtant, then the Multitude; thou canſt not tell where to find them, nor when thou haſt them; no<g ref="char:EOLhyphen"/>thing more ungrateful, thou canſt make no account of any recompence from them; in ſhort, therefore be as far from deſiring their love, as fearful to deſerve their hatred; ru<g ref="char:EOLhyphen"/>ine lies in both; the one will hugg thee to death, the other will cruſh thee to deſtruction; to eſcape the firſt, be not am<g ref="char:EOLhyphen"/>bitious; to avoid the ſecond, be not ſeditious.</p>
+            </div>
+            <div n="79" type="chapter">
+               <head>CHAP. LXXIX.</head>
+               <p>LEt the providence of the Ant, and the prudence of
+<pb n="165" facs="tcp:59399:88"/>
+the worldly wiſe inſtruct thee for thy Souls health; the Ant by Natures inſtinct layeth up her ſtore for winter; the wiſe provide a cloak for the wet, a ſtaff for old age, a ſcrip for the Journey, and a banck of money to flye to, when occa<g ref="char:EOLhyphen"/>ſion ſerveth; ſee thou lay up for thy ſelf treaſures in heaven, which cannot be ſpoy<g ref="char:EOLhyphen"/>led by hoſtile invaſion, nor wrung from thee by power, nor won by law, nor mortgaged by debt, nor impaired by publick calamity, nor changed by Kings or Parliaments, nor violated by death it ſelf: get aſſurance of Gods favour by the lively exerciſe of unfeigned faith, the daily practice of ſerious
+<pb n="166" facs="tcp:59399:89"/>
+Repentance, and the frequent uſe of fervent Prayer, where<g ref="char:EOLhyphen"/>by thou mayſt be enabled to ſtand in the evil Day, and bear up with joy and peace in the worſt of times, the hour of Death, and the day of Judg<g ref="char:EOLhyphen"/>ment.</p>
+            </div>
+            <div n="80" type="chapter">
+               <head>CHAP. LXXX.</head>
+               <p>SEe thou promiſe not to thy ſelf more felicity, peace, or comfort from this world then it can give. A Velvet ſlipper cannot cure the Gout, neither can a down bed give eaſe in an Ague fitt; all ſecond cau<g ref="char:EOLhyphen"/>ſes move in a ſubſerviency to the cauſe of Cauſes: whatſo<g ref="char:EOLhyphen"/>ever
+<pb n="167" facs="tcp:59399:89"/>
+is here below, is but a pipe of conveyance from God the fountain of all good, and there be many wayes whereby theſe pipes become ſtopt, many in<g ref="char:EOLhyphen"/>terruptions, croſſes, and diſap<g ref="char:EOLhyphen"/>pointments attend us in our beſt eſtate. <hi>Jonah's</hi> condition was but bad at beſt, to be toſ<g ref="char:EOLhyphen"/>ſed too and fro in a dangerful Ship, the bones whereof aked with the violence of every ſurge, that aſſayled it; the An<g ref="char:EOLhyphen"/>chors, Cables, and Rudders ei<g ref="char:EOLhyphen"/>ther thrown away, or torn in pieces; at length he is caſt in<g ref="char:EOLhyphen"/>to the Sea, a mercileſs, and im<g ref="char:EOLhyphen"/>placable Sea, roaring for his life, more then ever Lyon roared for his prey, the bot<g ref="char:EOLhyphen"/>tom whereof ſeemed as low to
+<pb n="168" facs="tcp:59399:90"/>
+him as the bottomleſs pit, and no hope left to eſcape, by Ship, or Boat, no <hi>Tabula naufragii,</hi> no plank or piece of board ap<g ref="char:EOLhyphen"/>pearing whereby to recover the Land; beſide all theſe, to fill the meaſure of his ſorrow up to the brim, the burning of Gods anger againſt his ſin, like a river of Brimſtone; this is our caſe in this vail of miſery; we are tumbled and toſſed in a veſſel as frail as <hi>Jonah's</hi> Ship, which every ſtream of calami<g ref="char:EOLhyphen"/>ty is ready to daſh in pieces; every ſtorm of diſeaſe able to ſplit; where oftentimes nei<g ref="char:EOLhyphen"/>ther Anchor nor Rudder is left, neither head, nor heart, nor hand, in caſe to give any com<g ref="char:EOLhyphen"/>fort, where though we have
+<pb n="169" facs="tcp:59399:90"/>
+the kindneſs of Friends, the duty of Children, the obedi<g ref="char:EOLhyphen"/>ence of Servants, the conveni<g ref="char:EOLhyphen"/>ence of wealth, and the advice of Phyſicians, we cannot uſe their ſervice; where we have a grave before us greedy to receive, but never to return us till Worm's have conſumed us: But if the anger of God for our ſins accompany all theſe, it will be a woful ad<g ref="char:EOLhyphen"/>venture for that man, when the ſin of his Soul and the end of his Life, ſhall meet together, as the treſpaſs of <hi>Jonah,</hi> and his being caſt out of the Ship.</p>
+            </div>
+            <div n="81" type="chapter">
+               <head>CHAP. LXXXI.</head>
+               <p>DEfer not thy Repentance, leſt thou be denyed Par<g ref="char:EOLhyphen"/>don.
+<pb n="170" facs="tcp:59399:91"/>
+Late Repentance is ſeldom true. He that hath promiſed thee pardon upon thy repen<g ref="char:EOLhyphen"/>tance, hath not promiſed life till thou repent; and every day thy Repentance is defer<g ref="char:EOLhyphen"/>red, thou haſt a day more to Repent of, and a day leſs to repent in. 'Tis folly beyond ex<g ref="char:EOLhyphen"/>preſſion, while the Ship is ſound, the tackling ſure, the Pilot well, the Saylors ſtrong, the Gale favourable, and the Sea calm, to lye idle at road, carding, dicing, drinking, burn<g ref="char:EOLhyphen"/>ing ſeaſonable weather; and when the Ship leaks, the Pilot is ſick, the Marriners faint, the ſtorm boyſterous, and the Sea tumultuous, then to lanch forth, and hoyſt up ſayl for a
+<pb n="171" facs="tcp:59399:91"/>
+voyage into far Countries. Such is the skill and caſe of e<g ref="char:EOLhyphen"/>vening repenters, who in the morning of youth, ſoundneſs of health, and perfect uſe of reaſon, will not weigh Anchor, hoyſt up Sail, and cut the Ca<g ref="char:EOLhyphen"/>bles that with-hold them from ſeeking God, but feed themſelves with a fond per<g ref="char:EOLhyphen"/>ſwaſion that when their rea<g ref="char:EOLhyphen"/>ſon is diſtracted, their ſenſes aſtonied, all the powers of their mind and parts of their body diſtempered, they ſhall leap into heaven with a <hi>Lord have mercy upon us</hi> in their mouths, and become Saints at their death, who have de<g ref="char:EOLhyphen"/>meaned themſelves like De<g ref="char:EOLhyphen"/>vils all their life. But think
+<pb n="172" facs="tcp:59399:92"/>
+not if thou ſerve Satan, and thy youthful luſts, with full diſhes; that God will accept the ab<g ref="char:EOLhyphen"/>ject ſcraps of old age. 'Tis ea<g ref="char:EOLhyphen"/>ſier to paſs the Foard in the morning when the water is low, then in the evening when the banks are full. By delay thy account is encreaſed, thy debt augmented, thy enemy grows ſtronger, thy ſelf the more enfeebled, and all the difficulties of converſion dai<g ref="char:EOLhyphen"/>ly more and more multiplied upon thee.</p>
+            </div>
+            <div n="82" type="chapter">
+               <head>CHAP. LXXXII.</head>
+               <p>AS the wiſe Phyſitian gives not the ſame phyſick to all Patients, nor in the ſame proportion, but he fitteth it
+<pb n="173" facs="tcp:59399:92"/>
+in quantity and quality to e<g ref="char:EOLhyphen"/>very ones conſtitution, ſtrength and diſeaſe; giving to one a Pill to purge him, to another a cordiall to reſtore him; one muſt be lanced, another muſt be healed; one muſt have ſauce to quicken his appetite, ano<g ref="char:EOLhyphen"/>ther muſt faſt it out, and be cured by abſtinence. Thus the Lord in wiſdom dealeth with the ſons of men, he giveth that allowance to every one that he knoweth to be moſt requiſite, reſpecting the perſon of none, but doing good to all, as their ſtate and condition doth re<g ref="char:EOLhyphen"/>quire; one is bettered by li<g ref="char:EOLhyphen"/>berty, another by reſtraint; one being ingenious by nature is made better by benefits, ano<g ref="char:EOLhyphen"/>ther
+<pb n="174" facs="tcp:59399:93"/>
+of a more ſervile diſpo<g ref="char:EOLhyphen"/>ſition is made worſe, and on<g ref="char:EOLhyphen"/>ly mended with threats, and puniſhments; one man is fit to be rich, another to be poor; one for the Court, another for the Cart; thus every one hath his Portion, his Station allot<g ref="char:EOLhyphen"/>ted him by God in his wiſdom and goodneſs. See thou pay God that tribute of praiſe and acknowledgment which is due for the portion he hath given thee, leſt thy ingratitude de<g ref="char:EOLhyphen"/>prive thee of his benefits, or leſt they prove pernitious. Rivers receiving their fullneſs from the Ocean, pay their Tri<g ref="char:EOLhyphen"/>bute by returning back their ſtreams; which homage, if they ſhould deny, their ſwel<g ref="char:EOLhyphen"/>ling
+<pb n="175" facs="tcp:59399:93"/>
+waters would break down their banks, and drown the Country.</p>
+            </div>
+            <div n="83" type="chapter">
+               <head>CHAP. LXXXIII.</head>
+               <p>HAve frequent and ſeri<g ref="char:EOLhyphen"/>ous thoughts of the laſt and dreadful day of Judgment, when thou muſt appear, and when all thy actions, with all their circumſtances, will be weighed in the ballance of equity, by the impartial judge of all; whom thou canſt not pervert with bribes, nor per<g ref="char:EOLhyphen"/>ſwade with Rhetorick, nor move with tears; but thy doom ſhall paſs according to thy deſert: and if ſentence paſs
+<pb n="176" facs="tcp:59399:94"/>
+againſt thee, it can never be re<g ref="char:EOLhyphen"/>verſed, for from this high Court of Juſtice there lyeth no appeal; and as the Sentence, ſo ſhall be the Execution, which will neither be delayed, nor can be avoided. And think not to appear before this Tri<g ref="char:EOLhyphen"/>bunal in thy ſcarlet Robe, thy rich attire, or with thy Golden Scepter. Thoſe ſpark<g ref="char:EOLhyphen"/>ling Diamonds, and that curi<g ref="char:EOLhyphen"/>ous dreſs, which may commend thee to the blind world, will not be valued here; this Sin revenging-Judge knoweth no diſtinction, but of good and bad. It is reported of a Chri<g ref="char:EOLhyphen"/>ſtian King of <hi>Hungary,</hi> that being ſad and penſive at the remembrance of his ſin, and
+<pb n="177" facs="tcp:59399:94"/>
+the thoughts of his appearing before the Judgment Seat of Chriſt; his brother a reſolute Courtier obſerving him, and underſtanding the Cauſe, made a mock of it, (as gallants uſe to do) accounting it nothing but a melancholy dump: The King replies not at preſent; but the cuſtom being that if the Executioner ſound a Trumpet before any mans door, that man without delay or further tryal, is had away to Execution; hereupon the King commands his death's-man in the dead time of the night to ſound his Trumpet before his Brothers door; who hearing the Meſſenger of death, ſprings in, pale, and trembling,
+<pb n="178" facs="tcp:59399:95"/>
+into his Brothers preſence, be<g ref="char:EOLhyphen"/>ſeeching the King to let him know, wherein he had offend<g ref="char:EOLhyphen"/>ed him; Oh Brother (replies the King) thou haſt not offend<g ref="char:EOLhyphen"/>ed me; but if the ſight of thy Executioner be ſo dreadful to thee, ſhall not we miſerable ſinners tremble to appear be<g ref="char:EOLhyphen"/>fore Gods Tribunal?</p>
+            </div>
+            <div n="84" type="chapter">
+               <head>CHAP. LXXXIV.</head>
+               <p>AVoid as well the occaſion and appearance of evil, as the evil it ſelf. The appea<g ref="char:EOLhyphen"/>rance of evil will blaſt thy good name, for men judge ac<g ref="char:EOLhyphen"/>cording to appearance; and an evil occaſion frequently
+<pb n="179" facs="tcp:59399:95"/>
+produceth an evil action. Look what a clear Fountain is to the thirſty, what the ſhade is to the weary Travelour, ſuch is occaſion to corrupt nature. <hi>St. Auguſtine</hi> maketh mention of his friend <hi>Alipius,</hi> that hav<g ref="char:EOLhyphen"/>ing reſolved never to look up<g ref="char:EOLhyphen"/>on the Fencers Prizes, was through the importunity of friends drawn along to the Theatre, where theſe bloody ſports were performed, pro<g ref="char:EOLhyphen"/>teſting, that he would keep his eyes ſhut all the while he was there; the people giving a ſuddain ſhout, he looked about to ſee what the matter was, whereupon he became pleaſed with the ſport, which before he had abandoned. He
+<pb n="180" facs="tcp:59399:96"/>
+that toucheth Pitch ſhall be defiled therewith. Remem<g ref="char:EOLhyphen"/>ber <hi>Dinah</hi> the Daughter of <hi>Lea,</hi> who went forth a Virgin to ſee the Daughters of the Land in their ſports, and May<g ref="char:EOLhyphen"/>games, but was defiled before her return.</p>
+            </div>
+            <div n="85" type="chapter">
+               <head>CHAP. LXXXV.</head>
+               <p>BUſie not thy ſelf in matters which concern thee not; if they ſucceed well, thou art not concern'd; if ill, thou ſhalt have blame for thy inter<g ref="char:EOLhyphen"/>medling. God hath given to every Tree its proper work, to bring forth its own fruit;
+<pb n="181" facs="tcp:59399:96"/>
+every Bird to build her own neſt; to every man a Calling, which if attended, will find him employment, and yield him profit; but obſerve, he that's buſie abroad; either wanteth buſineſs, or neglect<g ref="char:EOLhyphen"/>eth his buſineſs at home. See thou haſten not to give counſel in any caſe, the event where<g ref="char:EOLhyphen"/>of is doubtful; if the event happen according to expecta<g ref="char:EOLhyphen"/>tion, it will be imputed to the diſcretion and induſtry of him that managed it; if otherwiſe, it will be fathered upon thy ill counſel.</p>
+            </div>
+            <div n="86" type="chapter">
+               <pb n="182" facs="tcp:59399:97"/>
+               <head>CHAP. LXXXVI.</head>
+               <p>LEt thy care be to ſecure thy principal concerns. Leſſer dammages are recove<g ref="char:EOLhyphen"/>rable. Get thy eternal Inheri<g ref="char:EOLhyphen"/>tance made ſure, and the evi<g ref="char:EOLhyphen"/>dence thereof ſealed, and it will abundantly anſwer all the diſcouragements or allure<g ref="char:EOLhyphen"/>ments this world can put up<g ref="char:EOLhyphen"/>on thee. <hi>Henry</hi> the Fourth late King of <hi>France,</hi> being told of the King of <hi>Spains</hi> ample Do<g ref="char:EOLhyphen"/>minions, that he was King of <hi>Caſtile;</hi> and I (quoth <hi>Henry</hi>) am King of <hi>France:</hi> That he was King of <hi>Navarre;</hi> and I
+<pb n="183" facs="tcp:59399:97"/>
+am King of <hi>France:</hi> That he was King of <hi>Naples;</hi> and I am King of <hi>France:</hi> That he was King of both the <hi>Cicilia's, Nova Hyſpania,</hi> of the Weſtern <hi>India's;</hi> and I am King of <hi>France.</hi> He thought the King<g ref="char:EOLhyphen"/>dom of <hi>France</hi> equivalent to all theſe. One hath more wit and learning then thy ſelf, yet thou art a Chriſtian; another hath more Gold and Silver, yet thou art a Chriſtian; a third hath more honour and better preferment in the World, yet thou art a Chriſti<g ref="char:EOLhyphen"/>an; a fourth hath richer at<g ref="char:EOLhyphen"/>tire, goodlier poſſeſſions, fair<g ref="char:EOLhyphen"/>er buildings, and more delici<g ref="char:EOLhyphen"/>ous fair, yet thou art a Chri<g ref="char:EOLhyphen"/>ſtian; which conſideration
+<pb n="184" facs="tcp:59399:98"/>
+alone, weighed in the ballance of the Sanctuary, will weigh down all the excellencies and glory this world can give, bear up againſt all the neceſſi<g ref="char:EOLhyphen"/>ties, perturbations, and diſap<g ref="char:EOLhyphen"/>pointments, this world can in<g ref="char:EOLhyphen"/>flict upon thee.</p>
+            </div>
+            <div n="87" type="chapter">
+               <head>CHAP. LXXXVII.</head>
+               <p>WHom thou canſt not know by himſelf, thou mayſt learn in part by his com<g ref="char:EOLhyphen"/>panions, for as is the man, ſuch will be his companions, whom he chooſeth, and in whom he delighteth. As light and dark<g ref="char:EOLhyphen"/>neſs agree not, but mutually
+<pb n="185" facs="tcp:59399:98"/>
+expel each other, ſo the unjuſt man is an abomination to the juſt, and he that is upright in the way is an abomination to the wicked. As the chaſed Deer will not be admitted of the Heard, for fear the Hounds in purſute of him, fall on them; in like manner a knot of bad-good-fellows perceiving one of their ſociety to become ano<g ref="char:EOLhyphen"/>ther man, they will decline him, preferring his room be<g ref="char:EOLhyphen"/>fore his company; he ſhall no longer be welcome in their company, then he is willing to ſing his part in the jovial con<g ref="char:EOLhyphen"/>ſort. <hi>Auguſtus Caeſar</hi> deſirous to know the inclination of his Daughters <hi>Livia</hi> and <hi>Julia,</hi> diligently obſerved who came
+<pb n="186" facs="tcp:59399:99"/>
+to Court them, and perceiv<g ref="char:EOLhyphen"/>ing that grave Senatours talk<g ref="char:EOLhyphen"/>ed with <hi>Livia,</hi> Riotous and wanton youths with <hi>Julia,</hi> he preſently diſcerned their ſe<g ref="char:EOLhyphen"/>veral humors.</p>
+            </div>
+            <div n="88" type="chapter">
+               <head>CHAP. LXXXVIII.</head>
+               <p>BE not too ambitious of be<g ref="char:EOLhyphen"/>ing a Court favourite, nor too confident in Court promi<g ref="char:EOLhyphen"/>ſes, nor too proud of Court preferment; the firſt will va<g ref="char:EOLhyphen"/>niſh upon the leaſt diſguſt; the ſecond is eaſie to be for<g ref="char:EOLhyphen"/>gotten; the third doth often end in ruine. Look upon a gallant Ship well rigg'd, trim'd, and tackl'd, and man'd, and
+<pb n="187" facs="tcp:59399:99"/>
+munition'd, with her top and top gallant, and her ſpread Sayles ſwelling with a full gale in fair weather, putting out of the Haven into the ſmooth Main, and drawing the ſpectators eyes with a well-wiſhing admiration; but ſoon after the ſame Ship is ſplit upon ſome dangerous Rock, or wrecked by ſome diſaſtrous Tempeſt, or ſunk by ſome Leak ſprung in her by accident: Such is the Court favourites condition. To day like <hi>Sejanus</hi> he dazleth all mens eyes with the ſplendour of his glory, and with the proud beak of his powerful proſperity cutteth the waves, and ploweth through the preſs
+<pb n="188" facs="tcp:59399:100"/>
+of the Multitude, ſcorning to fear any remora at his Keel below, or any croſs winds from above; and yet to morrow in ſome ſtorms of unexpected disfavour, ſprings a leak in his honour, and ſinks in the quick<g ref="char:EOLhyphen"/>ſands of diſgrace, or daſh'd againſt the Rocks of diſplea<g ref="char:EOLhyphen"/>ſure is ſplit and wreck'd in the charybdis of Infamy, and ſo concludes his Voyage in miſe<g ref="char:EOLhyphen"/>ry and misfortune.</p>
+            </div>
+            <div n="89" type="chapter">
+               <head>CHAP. LXXXIX.</head>
+               <p>LEt thy ſerious thoughts of Eternity like a perſpe<g ref="char:EOLhyphen"/>ctive-glaſs, preſent it near; con<g ref="char:EOLhyphen"/>ſidering thou art alwayes upon
+<pb n="189" facs="tcp:59399:100"/>
+the verge of that eſtate, where time and change ſhall be no more. <hi>Xeuxis</hi> that famous Pain<g ref="char:EOLhyphen"/>ter being ſlow at his work, and ſuffering no Piece of his to go abroad without often reviewing; and being demand<g ref="char:EOLhyphen"/>ed why he was ſo curious, and ſo tedious in the uſe of his Penſil, anſwered, that what he Painted, he Painted for Eternity; even ſo what thou doſt ſhall be tranſmitted to Eternity; but what thou haſt will periſh with the uſing; be careful therefore rather of what thou doſt, then what thou haſt; neglecting rather thy Temporal then thy Eter<g ref="char:EOLhyphen"/>nal concerns.</p>
+            </div>
+            <div n="90" type="chapter">
+               <pb n="190" facs="tcp:59399:101"/>
+               <head>CHAP. XC.</head>
+               <p>NEither contemn, nor ſu<g ref="char:EOLhyphen"/>perſtitiouſly fear the Conſtellations and Signes of Heaven! God hath ſet them above thee, to the end, thou ſhouldſt obſerve them; he himſelf ſits above them, to the end, thou ſhouldſt not fear them, but him who is Lord of all; 'tis true, they are Gods voice, but not eaſie to be un<g ref="char:EOLhyphen"/>derſtood, either what they mean, or whether judgment, or mercy, if Judgment, whe<g ref="char:EOLhyphen"/>ther Sword, Plague, or Fa<g ref="char:EOLhyphen"/>mine, or ſome other effect of
+<pb n="191" facs="tcp:59399:101"/>
+the Divine diſpleaſure; or whom they mean, what Kingdom, Family, or Perſon; or when they mean it, whether this or the next, or many years hence; rather hearken to his voice in the Holy Scripture, which is moſt certain, and tells thee plain, that he is long ſuffe<g ref="char:EOLhyphen"/>ring, and of great pity, yet will at length plentifully re<g ref="char:EOLhyphen"/>ward the wicked doer, and re<g ref="char:EOLhyphen"/>lieve the oppreſſed.</p>
+            </div>
+            <div n="91" type="chapter">
+               <head>CHAP. XCI.</head>
+               <p>TAke heed leſt being deſi<g ref="char:EOLhyphen"/>rous to become a wit in jeſt, thou become a fool in
+<pb n="192" facs="tcp:59399:102"/>
+earneſt; for commonly they are the trifling things of this World, which ſerious men have to do withal, when they have nothing elſe to do; their greateſt buſineſs then being to laugh, and their reward to be laught at. Some are ſo unhap<g ref="char:EOLhyphen"/>py in having happy wits, that they make their wits their happineſs, jeſting themſelves out of all that is earneſt.</p>
+            </div>
+            <div n="92" type="chapter">
+               <head>CHAP. XCII.</head>
+               <p>I Conclude, theſe my mean Animadverſions with the authentick Adagies of the wiſeſt that ever writ, which if
+<pb n="193" facs="tcp:59399:102"/>
+well underſtood, and duly ap<g ref="char:EOLhyphen"/>plyed, will ſerve and ſatisfie thee in moſt of thy concerns, being of Divine Authority.</p>
+               <p n="1">1. A Prudent man conceal<g ref="char:EOLhyphen"/>eth knowledge, and keepeth his mind till afterwards; but the heart of the fool proclaim<g ref="char:EOLhyphen"/>eth fooliſhneſs, he uttereth all his mind.</p>
+               <p n="2">2. He that walketh with wiſe men, ſhall be wiſe; but a companion of fools ſhall be broken.</p>
+               <p n="3">3. Deviſe not evil againſt
+<pb n="194" facs="tcp:59399:103"/>
+thy neighbour, ſeeing he liveth ſecurely by thee; debate thy cauſe with thy neighbour him<g ref="char:EOLhyphen"/>ſelf, and diſcover not a ſecret to another, leſt he that hear<g ref="char:EOLhyphen"/>eth it put thee to ſhame, and thine infamy turn not away.</p>
+               <p n="4">4. Withdraw thy foot from thy neighbours houſe, leſt he be weary of thee, and ſo hate thee.</p>
+               <p n="5">5. He that is ſlow to wrath is of great underſtanding, but he that is haſty of ſpirit ex<g ref="char:EOLhyphen"/>alteth folly.</p>
+               <p n="6">
+                  <pb n="195" facs="tcp:59399:103"/>6. A ſoft anſwer turneth away wrath, but grievous words ſtir up anger.</p>
+               <p n="7">7. The wrath of a King is as the meſſengers of Death, but a wiſe man will pacific it; for by long forbearing is a Prince perſwaded, and a ſoft tongue breaketh the bone.</p>
+               <p n="8">8. Many ſeek the Princes favour, and every man is a friend to him that giveth gifts; a gift in ſecret pacifieth anger, and a reward in the boſome ſtrong wrath.</p>
+               <p n="9">9. Make no friendſhip with an angry man, and with a fu<g ref="char:EOLhyphen"/>rious man thou ſhalt not go;
+<pb n="196" facs="tcp:59399:104"/>
+leſt thou learn his wayes, and get a ſnare to thy Soul.</p>
+               <p n="10">10. He that anſwereth a matter before he hear it, it is folly and ſhame to him. Speak not in the ears of a fool, for he will deſpiſe the wiſdom of thy words.</p>
+               <p n="11">11. A prudent man fore<g ref="char:EOLhyphen"/>ſeeth the evil, and hideth him<g ref="char:EOLhyphen"/>ſelf; but the ſimple paſs on, and are puniſhed. Happy is the man that feareth alwayes, but he that hardneth his heart falleth into miſchief.</p>
+               <p n="12">12. Remove not the old Land-mark, neither enter into the field of the fatherleſs, for
+<pb n="197" facs="tcp:59399:104"/>
+their Redeemer is mighty. Rob not the poor becauſe he is poor, neither oppreſs the afflicted in the Gate; for the Lord will plead their Cauſe, and ſpoyl the Soul of thoſe that ſpoyled them.</p>
+               <p n="13">13. Rejoyce not when thine enemy falleth, and let not thine heart be glad when he ſtumbleth, leſt the Lord ſee it, and it diſpleaſe him, and he turn away his wrarth from him.</p>
+               <p n="14">14. Whoſo keepeth his mouth and tongue, keepeth his Soul from trouble.</p>
+               <p n="15">15. The rich ruleth over the poor; and the borrower
+<pb n="186" facs="tcp:59399:105"/>
+is ſervant to the lender.</p>
+               <p n="16">16. Let another man praiſe thee, and not thy own mouth; a ſtranger, and not thy own lips.</p>
+               <p n="17">17. He that delicately bring<g ref="char:EOLhyphen"/>eth up his ſervant from a Child, ſhall have him become his Son at length.</p>
+               <p n="18">18. Accuſe not a Servant to his Maſter, leſt he curſe thee, and thou become guilty.</p>
+               <p n="19">19. Look not upon the Wine when it is red, when it giveth his colour in the Cup, when it moveth it ſelf aright: at the laſt it biteth like a Ser<g ref="char:EOLhyphen"/>pent,
+<pb n="197" facs="tcp:59399:105"/>
+and ſtingeth like an Ad<g ref="char:EOLhyphen"/>der.</p>
+               <p n="20">20. There is no wiſdom, nor underſtanding, nor Counſel againſt the Lord.</p>
+               <closer>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index">
+            <pb facs="tcp:59399:106"/>
+            <head>The Table.</head>
+            <list>
+               <item>Action <hi>Chapter. 24.</hi>
+               </item>
+               <item>Anger <hi>Chapter. 30.</hi>
+               </item>
+               <item>Apparel <hi>Chapter. 7.</hi>
+               </item>
+               <item>Appearance of evil <hi>Chapter. 84.</hi>
+               </item>
+               <item>Buſineſs <hi>Chapter. 23.</hi>
+               </item>
+               <item>Buſie bodies <hi>Chapter. 85.</hi>
+               </item>
+               <item>Cenſorious <hi>Chapter. 27.</hi>
+               </item>
+               <item>Cenſure <hi>Chapter. 44.</hi>
+               </item>
+               <item>Chance <hi>Chapter. 67.</hi>
+               </item>
+               <item>Charity <hi>Chapter. 54.</hi>
+               </item>
+               <item>Children <hi>Chapter. 17.</hi>
+               </item>
+               <item>Church <hi>Chapter. 35.</hi>
+               </item>
+               <item>Companion <hi>Chapter. 15.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:59399:106"/>Companions <hi>Chapter. 87.</hi>
+               </item>
+               <item>Concerns <hi>Chapter. 86.</hi>
+               </item>
+               <item>Conſcience <hi>Chapter. 77.</hi>
+               </item>
+               <item>Conſideration <hi>Chapter. 53.</hi>
+               </item>
+               <item>Content <hi>Chapter. 37.</hi>
+               </item>
+               <item>Contention <hi>Chapter. 59.</hi>
+               </item>
+               <item>Countenance <hi>Chapter. 34.</hi>
+               </item>
+               <item>Court favorite <hi>Chapter. 88.</hi>
+               </item>
+               <item>Creatour <hi>Chapter. 6.</hi>
+               </item>
+               <item>Croſs <hi>Chapter. 41.</hi>
+               </item>
+               <item>Danger <hi>Chapter. 40.</hi>
+               </item>
+               <item>Death <hi>Chapter. 42.</hi>
+               </item>
+               <item>Deſign <hi>Chapter. 4.</hi>
+               </item>
+               <item>Deſigne <hi>Chapter. 13.</hi>
+               </item>
+               <item>Diſcourſe <hi>Chapter. 8.</hi>
+               </item>
+               <item>Diſcretion <hi>Chapter. 72.</hi>
+               </item>
+               <item>Dreams <hi>Chapter. 71.</hi>
+               </item>
+               <item>Enemy <hi>Chapter. 31.</hi>
+               </item>
+               <item>Envy <hi>Chapter. 39.</hi>
+               </item>
+               <item>Expence <hi>Chapter. 64.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:59399:107"/>Eternity <hi>Chapter. 89.</hi>
+               </item>
+               <item>Faith <hi>Chapter. 5.</hi>
+               </item>
+               <item>Fame <hi>Chapter. 45.</hi>
+               </item>
+               <item>Fancy <hi>Chapter. 57.60.</hi>
+               </item>
+               <item>Faſt <hi>Chapter. 29.</hi>
+               </item>
+               <item>Felicity <hi>Chapter. 80.</hi>
+               </item>
+               <item>Fortune <hi>Chapter. 19.</hi>
+               </item>
+               <item>Friend <hi>Chapter. 12.66.</hi>
+               </item>
+               <item>Gift <hi>Chapter. 43.</hi>
+               </item>
+               <item>God <hi>Chapter. 1.</hi>
+               </item>
+               <item>Gods way <hi>Chapter. 73.</hi>
+               </item>
+               <item>Gods will <hi>Chapter. 76.</hi>
+               </item>
+               <item>Gods glory <hi>Chapter. 75.</hi>
+               </item>
+               <item>Great men <hi>Chapter. 74.</hi>
+               </item>
+               <item>Honour <hi>Chapter. 32.</hi>
+               </item>
+               <item>Holy Scripture <hi>Chapter. 46.</hi>
+               </item>
+               <item>Imitation <hi>Chapter. 47.</hi>
+               </item>
+               <item>Injury <hi>Chapter. 48.</hi>
+               </item>
+               <item>Judgment-day. <hi>Chapter. 83. Chapter. 33.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:59399:107"/>Luck <hi>Chapter. 20.</hi>
+               </item>
+               <item>Marriage <hi>Chapter. 11.</hi>
+               </item>
+               <item>Miſery <hi>Chapter. 18.</hi>
+               </item>
+               <item>Meditation <hi>Chapter. 63.</hi>
+               </item>
+               <item>Melancholy <hi>Chapter. 70.</hi>
+               </item>
+               <item>Maſter <hi>Chapter. 10.</hi>
+               </item>
+               <item>Mirth <hi>Chapter. 49.</hi>
+               </item>
+               <item>Multitude <hi>Chapter. 78.</hi>
+               </item>
+               <item>Neighbour <hi>Chapter. 51.</hi>
+               </item>
+               <item>News <hi>Chapter. 65.</hi>
+               </item>
+               <item>Paſſion <hi>Chapter. 55.99.</hi>
+               </item>
+               <item>Pleading <hi>Chapter. 28.</hi>
+               </item>
+               <item>Poverty <hi>Chapter. 61.</hi>
+               </item>
+               <item>Prayer <hi>Chapter. 2.</hi>
+               </item>
+               <item>Preferment <hi>Chapter. 56.</hi>
+               </item>
+               <item>Pride <hi>Chapter. 21.</hi>
+               </item>
+               <item>Proſperity <hi>Chapter. 58.</hi>
+               </item>
+               <item>Proverbs <hi>Chapter. 92.</hi>
+               </item>
+               <item>Reading <hi>Chapter. 25.</hi>
+               </item>
+               <item>Recreation <hi>Chapter. 16.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:59399:108"/>Reproach <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Repentance <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Reſolution <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Reſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Servant <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Sin <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Signes of Heaven <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Soules health <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Table <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Times <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Thankfulneſs <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Vanity <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Virtue <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Wiſdom <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>Wit <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
